@@ -21,7 +21,7 @@ java -jar ./target/bug-with-pool-connections-1.0.0-SNAPSHOT-runner.jar
 ```
 
 ### Information about repo
-This repo contains 3 classes:
+This repo contains classes:  
 0. Starter - starter class  
 1. OracleService - execute "select 1 from dual" over io.vertx.mutiny.oracleclient.OraclePool
 2. AgoralService - execute "select 1 from dual" over AgoralDataSource without vertx - reason to create this class = to show what Oracle driver working properly with different Pool/DS 
