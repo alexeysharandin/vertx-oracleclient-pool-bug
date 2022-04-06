@@ -1,0 +1,724 @@
+2022-04-06 14:31:10,203 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Agoral Test started
+2022-04-06 14:31:10,280 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Iteration 0. Connection hash: wrapped[oracle.jdbc.driver.T4CConnection@39ba93e0]
+2022-04-06 14:31:10,282 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Getting connection time 0 in 28ms
+2022-04-06 14:31:10,283 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Connection is Oracle
+2022-04-06 14:31:10,657 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) hashCode = 968528864
+2022-04-06 14:31:10,663 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [968528864]ping = 0
+2022-04-06 14:31:10,665 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [968528864]netConnectionId = Pu3vUvoTTFOCZmxJwmNEcQ==
+2022-04-06 14:31:10,667 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [968528864]usable = true
+2022-04-06 14:31:10,669 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [968528864]closed = false
+2022-04-06 14:31:11,247 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Exec query '0' in 577ms
+2022-04-06 14:31:11,248 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Total for Agoral test '0' is 999ms
+2022-04-06 14:31:11,249 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Iteration 1. Connection hash: wrapped[oracle.jdbc.driver.T4CConnection@39ba93e0]
+2022-04-06 14:31:11,250 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Getting connection time 1 in 0ms
+2022-04-06 14:31:11,251 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Connection is Oracle
+2022-04-06 14:31:11,620 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) hashCode = 968528864
+2022-04-06 14:31:11,621 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [968528864]ping = 0
+2022-04-06 14:31:11,621 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [968528864]netConnectionId = Pu3vUvoTTFOCZmxJwmNEcQ==
+2022-04-06 14:31:11,622 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [968528864]usable = true
+2022-04-06 14:31:11,622 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [968528864]closed = false
+2022-04-06 14:31:12,141 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Exec query '1' in 518ms
+2022-04-06 14:31:12,143 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Total for Agoral test '1' is 894ms
+2022-04-06 14:31:12,145 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Iteration 2. Connection hash: wrapped[oracle.jdbc.driver.T4CConnection@39ba93e0]
+2022-04-06 14:31:12,146 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Getting connection time 2 in 1ms
+2022-04-06 14:31:12,148 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Connection is Oracle
+2022-04-06 14:31:12,533 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) hashCode = 968528864
+2022-04-06 14:31:12,535 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [968528864]ping = 0
+2022-04-06 14:31:12,537 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [968528864]netConnectionId = Pu3vUvoTTFOCZmxJwmNEcQ==
+2022-04-06 14:31:12,538 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [968528864]usable = true
+2022-04-06 14:31:12,540 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [968528864]closed = false
+2022-04-06 14:31:12,913 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Exec query '2' in 371ms
+2022-04-06 14:31:12,915 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Total for Agoral test '2' is 771ms
+2022-04-06 14:31:12,917 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Iteration 3. Connection hash: wrapped[oracle.jdbc.driver.T4CConnection@39ba93e0]
+2022-04-06 14:31:12,919 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Getting connection time 3 in 0ms
+2022-04-06 14:31:12,920 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Connection is Oracle
+2022-04-06 14:31:13,297 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) hashCode = 968528864
+2022-04-06 14:31:13,298 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [968528864]ping = 0
+2022-04-06 14:31:13,299 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [968528864]netConnectionId = Pu3vUvoTTFOCZmxJwmNEcQ==
+2022-04-06 14:31:13,301 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [968528864]usable = true
+2022-04-06 14:31:13,302 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [968528864]closed = false
+2022-04-06 14:31:13,676 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Exec query '3' in 373ms
+2022-04-06 14:31:13,678 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Total for Agoral test '3' is 761ms
+2022-04-06 14:31:13,681 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Iteration 4. Connection hash: wrapped[oracle.jdbc.driver.T4CConnection@39ba93e0]
+2022-04-06 14:31:13,683 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Getting connection time 4 in 0ms
+2022-04-06 14:31:13,684 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Connection is Oracle
+2022-04-06 14:31:14,054 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) hashCode = 968528864
+2022-04-06 14:31:14,055 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [968528864]ping = 0
+2022-04-06 14:31:14,056 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [968528864]netConnectionId = Pu3vUvoTTFOCZmxJwmNEcQ==
+2022-04-06 14:31:14,058 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [968528864]usable = true
+2022-04-06 14:31:14,059 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [968528864]closed = false
+2022-04-06 14:31:14,430 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Exec query '4' in 371ms
+2022-04-06 14:31:14,432 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Total for Agoral test '4' is 752ms
+2022-04-06 14:31:14,433 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Iteration 5. Connection hash: wrapped[oracle.jdbc.driver.T4CConnection@39ba93e0]
+2022-04-06 14:31:14,438 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Getting connection time 5 in 0ms
+2022-04-06 14:31:14,440 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Connection is Oracle
+2022-04-06 14:31:14,816 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) hashCode = 968528864
+2022-04-06 14:31:14,817 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [968528864]ping = 0
+2022-04-06 14:31:14,818 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [968528864]netConnectionId = Pu3vUvoTTFOCZmxJwmNEcQ==
+2022-04-06 14:31:14,819 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [968528864]usable = true
+2022-04-06 14:31:14,820 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [968528864]closed = false
+2022-04-06 14:31:15,224 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Exec query '5' in 403ms
+2022-04-06 14:31:15,225 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Total for Agoral test '5' is 792ms
+2022-04-06 14:31:15,227 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Iteration 6. Connection hash: wrapped[oracle.jdbc.driver.T4CConnection@39ba93e0]
+2022-04-06 14:31:15,229 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Getting connection time 6 in 0ms
+2022-04-06 14:31:15,230 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Connection is Oracle
+2022-04-06 14:31:15,608 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) hashCode = 968528864
+2022-04-06 14:31:15,610 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [968528864]ping = 0
+2022-04-06 14:31:15,613 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [968528864]netConnectionId = Pu3vUvoTTFOCZmxJwmNEcQ==
+2022-04-06 14:31:15,615 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [968528864]usable = true
+2022-04-06 14:31:15,616 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [968528864]closed = false
+2022-04-06 14:31:15,994 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Exec query '6' in 376ms
+2022-04-06 14:31:15,996 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Total for Agoral test '6' is 769ms
+2022-04-06 14:31:15,997 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Iteration 7. Connection hash: wrapped[oracle.jdbc.driver.T4CConnection@39ba93e0]
+2022-04-06 14:31:15,998 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Getting connection time 7 in 0ms
+2022-04-06 14:31:15,999 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Connection is Oracle
+2022-04-06 14:31:16,371 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) hashCode = 968528864
+2022-04-06 14:31:16,372 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [968528864]ping = 0
+2022-04-06 14:31:16,374 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [968528864]netConnectionId = Pu3vUvoTTFOCZmxJwmNEcQ==
+2022-04-06 14:31:16,375 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [968528864]usable = true
+2022-04-06 14:31:16,376 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [968528864]closed = false
+2022-04-06 14:31:16,751 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Exec query '7' in 374ms
+2022-04-06 14:31:16,752 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Total for Agoral test '7' is 755ms
+2022-04-06 14:31:16,754 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Iteration 8. Connection hash: wrapped[oracle.jdbc.driver.T4CConnection@39ba93e0]
+2022-04-06 14:31:16,756 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Getting connection time 8 in 0ms
+2022-04-06 14:31:16,757 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Connection is Oracle
+2022-04-06 14:31:17,137 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) hashCode = 968528864
+2022-04-06 14:31:17,139 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [968528864]ping = 0
+2022-04-06 14:31:17,140 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [968528864]netConnectionId = Pu3vUvoTTFOCZmxJwmNEcQ==
+2022-04-06 14:31:17,141 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [968528864]usable = true
+2022-04-06 14:31:17,142 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [968528864]closed = false
+2022-04-06 14:31:17,516 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Exec query '8' in 372ms
+2022-04-06 14:31:17,517 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Total for Agoral test '8' is 763ms
+2022-04-06 14:31:17,518 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Iteration 9. Connection hash: wrapped[oracle.jdbc.driver.T4CConnection@39ba93e0]
+2022-04-06 14:31:17,519 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Getting connection time 9 in 0ms
+2022-04-06 14:31:17,520 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Connection is Oracle
+2022-04-06 14:31:17,891 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) hashCode = 968528864
+2022-04-06 14:31:17,893 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [968528864]ping = 0
+2022-04-06 14:31:17,893 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [968528864]netConnectionId = Pu3vUvoTTFOCZmxJwmNEcQ==
+2022-04-06 14:31:17,894 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [968528864]usable = true
+2022-04-06 14:31:17,895 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [968528864]closed = false
+2022-04-06 14:31:18,268 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Exec query '9' in 372ms
+2022-04-06 14:31:18,269 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Total for Agoral test '9' is 751ms
+2022-04-06 14:31:18,270 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Agoral Test finished
+
+2022-04-06 14:32:44,318 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Agoral Test started
+2022-04-06 14:32:44,319 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Iteration 0. Connection hash: wrapped[oracle.jdbc.driver.T4CConnection@39ba93e0]
+2022-04-06 14:32:44,320 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Getting connection time 0 in 1ms
+2022-04-06 14:32:44,321 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Connection is Oracle
+2022-04-06 14:32:44,322 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) hashCode = 968528864
+2022-04-06 14:32:44,323 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [968528864]ping = -1
+2022-04-06 14:32:44,323 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [968528864]netConnectionId = Pu3vUvoTTFOCZmxJwmNEcQ==
+2022-04-06 14:32:44,324 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [968528864]usable = false
+2022-04-06 14:32:44,324 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [968528864]closed = true
+2022-04-06 14:32:44,326 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) java.sql.SQLRecoverableException: Closed Connection: java.sql.SQLRecoverableException: Closed Connection
+	at oracle.jdbc.driver.PhysicalConnection.requireOpenConnection(PhysicalConnection.java:11770)
+	at oracle.jdbc.driver.PhysicalConnection.prepareStatementInternal(PhysicalConnection.java:2351)
+	at oracle.jdbc.driver.PhysicalConnection.prepareStatement(PhysicalConnection.java:2306)
+	at oracle.jdbc.driver.PhysicalConnection.prepareStatement(PhysicalConnection.java:2297)
+	at oracle.jdbc.driver.PhysicalConnection.prepareStatement(PhysicalConnection.java:2208)
+	at io.agroal.pool.wrapper.ConnectionWrapper.prepareStatement(ConnectionWrapper.java:659)
+	at io.vertx.oracleclient.bugs.AgoralService.testAgoral(AgoralService.java:59)
+	at io.vertx.oracleclient.bugs.AgoralService_Subclass.testAgoral$$superforward1(Unknown Source)
+	at io.vertx.oracleclient.bugs.AgoralService_Subclass$$function$$2.apply(Unknown Source)
+	at io.quarkus.arc.impl.AroundInvokeInvocationContext.proceed(AroundInvokeInvocationContext.java:54)
+	at io.quarkus.arc.runtime.devconsole.InvocationInterceptor.proceed(InvocationInterceptor.java:62)
+	at io.quarkus.arc.runtime.devconsole.InvocationInterceptor.monitor(InvocationInterceptor.java:49)
+	at io.quarkus.arc.runtime.devconsole.InvocationInterceptor_Bean.intercept(Unknown Source)
+	at io.quarkus.arc.impl.InterceptorInvocation.invoke(InterceptorInvocation.java:41)
+	at io.quarkus.arc.impl.AroundInvokeInvocationContext.perform(AroundInvokeInvocationContext.java:41)
+	at io.quarkus.arc.impl.InvocationContexts.performAroundInvoke(InvocationContexts.java:32)
+	at io.vertx.oracleclient.bugs.AgoralService_Subclass.testAgoral(Unknown Source)
+	at io.vertx.oracleclient.bugs.AgoralService_ClientProxy.testAgoral(Unknown Source)
+	at io.vertx.oracleclient.bugs.Starter.agoral(Starter.java:52)
+	at io.vertx.oracleclient.bugs.Starter.onStart(Starter.java:26)
+	at io.vertx.oracleclient.bugs.Starter_Subclass.onStart$$superforward1(Unknown Source)
+	at io.vertx.oracleclient.bugs.Starter_Subclass$$function$$2.apply(Unknown Source)
+	at io.quarkus.arc.impl.AroundInvokeInvocationContext.proceed(AroundInvokeInvocationContext.java:54)
+	at io.quarkus.arc.runtime.devconsole.InvocationInterceptor.proceed(InvocationInterceptor.java:62)
+	at io.quarkus.arc.runtime.devconsole.InvocationInterceptor.monitor(InvocationInterceptor.java:49)
+	at io.quarkus.arc.runtime.devconsole.InvocationInterceptor_Bean.intercept(Unknown Source)
+	at io.quarkus.arc.impl.InterceptorInvocation.invoke(InterceptorInvocation.java:41)
+	at io.quarkus.arc.impl.AroundInvokeInvocationContext.perform(AroundInvokeInvocationContext.java:41)
+	at io.quarkus.arc.impl.InvocationContexts.performAroundInvoke(InvocationContexts.java:32)
+	at io.vertx.oracleclient.bugs.Starter_Subclass.onStart(Unknown Source)
+	at io.vertx.oracleclient.bugs.Starter_Observer_onStart_fd71b5e0b207b7d1ef838b94eaeff75e52b8f463.notify(Unknown Source)
+	at io.quarkus.arc.impl.EventImpl$Notifier.notifyObservers(EventImpl.java:320)
+	at io.quarkus.arc.impl.EventImpl$Notifier.notify(EventImpl.java:302)
+	at io.quarkus.arc.impl.EventImpl.fire(EventImpl.java:73)
+	at io.quarkus.arc.runtime.ArcRecorder.fireLifecycleEvent(ArcRecorder.java:128)
+	at io.quarkus.arc.runtime.ArcRecorder.handleLifecycleEvents(ArcRecorder.java:97)
+	at io.quarkus.deployment.steps.LifecycleEventsBuildStep$startupEvent1144526294.deploy_0(Unknown Source)
+	at io.quarkus.deployment.steps.LifecycleEventsBuildStep$startupEvent1144526294.deploy(Unknown Source)
+	at io.quarkus.runner.ApplicationImpl.doStart(Unknown Source)
+	at io.quarkus.runtime.Application.start(Application.java:101)
+	at io.quarkus.runtime.ApplicationLifecycleManager.run(ApplicationLifecycleManager.java:103)
+	at io.quarkus.runtime.Quarkus.run(Quarkus.java:67)
+	at io.quarkus.runtime.Quarkus.run(Quarkus.java:41)
+	at io.quarkus.runtime.Quarkus.run(Quarkus.java:120)
+	at io.quarkus.runner.GeneratedMain.main(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at io.quarkus.runner.bootstrap.StartupActionImpl$1.run(StartupActionImpl.java:103)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+2022-04-06 14:32:44,333 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Iteration 1. Connection hash: wrapped[oracle.jdbc.driver.T4CConnection@631005bd]
+2022-04-06 14:32:44,334 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Getting connection time 1 in 0ms
+2022-04-06 14:32:44,335 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Connection is Oracle
+2022-04-06 14:32:44,337 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) hashCode = 1661994429
+2022-04-06 14:32:44,338 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [1661994429]ping = -1
+2022-04-06 14:32:44,338 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [1661994429]netConnectionId = 0iJs6QaFQx2Msm4T/n8VLg==
+2022-04-06 14:32:44,339 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [1661994429]usable = false
+2022-04-06 14:32:44,339 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [1661994429]closed = true
+2022-04-06 14:32:44,340 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) java.sql.SQLRecoverableException: Closed Connection: java.sql.SQLRecoverableException: Closed Connection
+	at oracle.jdbc.driver.PhysicalConnection.requireOpenConnection(PhysicalConnection.java:11770)
+	at oracle.jdbc.driver.PhysicalConnection.prepareStatementInternal(PhysicalConnection.java:2351)
+	at oracle.jdbc.driver.PhysicalConnection.prepareStatement(PhysicalConnection.java:2306)
+	at oracle.jdbc.driver.PhysicalConnection.prepareStatement(PhysicalConnection.java:2297)
+	at oracle.jdbc.driver.PhysicalConnection.prepareStatement(PhysicalConnection.java:2208)
+	at io.agroal.pool.wrapper.ConnectionWrapper.prepareStatement(ConnectionWrapper.java:659)
+	at io.vertx.oracleclient.bugs.AgoralService.testAgoral(AgoralService.java:59)
+	at io.vertx.oracleclient.bugs.AgoralService_Subclass.testAgoral$$superforward1(Unknown Source)
+	at io.vertx.oracleclient.bugs.AgoralService_Subclass$$function$$2.apply(Unknown Source)
+	at io.quarkus.arc.impl.AroundInvokeInvocationContext.proceed(AroundInvokeInvocationContext.java:54)
+	at io.quarkus.arc.runtime.devconsole.InvocationInterceptor.proceed(InvocationInterceptor.java:62)
+	at io.quarkus.arc.runtime.devconsole.InvocationInterceptor.monitor(InvocationInterceptor.java:49)
+	at io.quarkus.arc.runtime.devconsole.InvocationInterceptor_Bean.intercept(Unknown Source)
+	at io.quarkus.arc.impl.InterceptorInvocation.invoke(InterceptorInvocation.java:41)
+	at io.quarkus.arc.impl.AroundInvokeInvocationContext.perform(AroundInvokeInvocationContext.java:41)
+	at io.quarkus.arc.impl.InvocationContexts.performAroundInvoke(InvocationContexts.java:32)
+	at io.vertx.oracleclient.bugs.AgoralService_Subclass.testAgoral(Unknown Source)
+	at io.vertx.oracleclient.bugs.AgoralService_ClientProxy.testAgoral(Unknown Source)
+	at io.vertx.oracleclient.bugs.Starter.agoral(Starter.java:52)
+	at io.vertx.oracleclient.bugs.Starter.onStart(Starter.java:26)
+	at io.vertx.oracleclient.bugs.Starter_Subclass.onStart$$superforward1(Unknown Source)
+	at io.vertx.oracleclient.bugs.Starter_Subclass$$function$$2.apply(Unknown Source)
+	at io.quarkus.arc.impl.AroundInvokeInvocationContext.proceed(AroundInvokeInvocationContext.java:54)
+	at io.quarkus.arc.runtime.devconsole.InvocationInterceptor.proceed(InvocationInterceptor.java:62)
+	at io.quarkus.arc.runtime.devconsole.InvocationInterceptor.monitor(InvocationInterceptor.java:49)
+	at io.quarkus.arc.runtime.devconsole.InvocationInterceptor_Bean.intercept(Unknown Source)
+	at io.quarkus.arc.impl.InterceptorInvocation.invoke(InterceptorInvocation.java:41)
+	at io.quarkus.arc.impl.AroundInvokeInvocationContext.perform(AroundInvokeInvocationContext.java:41)
+	at io.quarkus.arc.impl.InvocationContexts.performAroundInvoke(InvocationContexts.java:32)
+	at io.vertx.oracleclient.bugs.Starter_Subclass.onStart(Unknown Source)
+	at io.vertx.oracleclient.bugs.Starter_Observer_onStart_fd71b5e0b207b7d1ef838b94eaeff75e52b8f463.notify(Unknown Source)
+	at io.quarkus.arc.impl.EventImpl$Notifier.notifyObservers(EventImpl.java:320)
+	at io.quarkus.arc.impl.EventImpl$Notifier.notify(EventImpl.java:302)
+	at io.quarkus.arc.impl.EventImpl.fire(EventImpl.java:73)
+	at io.quarkus.arc.runtime.ArcRecorder.fireLifecycleEvent(ArcRecorder.java:128)
+	at io.quarkus.arc.runtime.ArcRecorder.handleLifecycleEvents(ArcRecorder.java:97)
+	at io.quarkus.deployment.steps.LifecycleEventsBuildStep$startupEvent1144526294.deploy_0(Unknown Source)
+	at io.quarkus.deployment.steps.LifecycleEventsBuildStep$startupEvent1144526294.deploy(Unknown Source)
+	at io.quarkus.runner.ApplicationImpl.doStart(Unknown Source)
+	at io.quarkus.runtime.Application.start(Application.java:101)
+	at io.quarkus.runtime.ApplicationLifecycleManager.run(ApplicationLifecycleManager.java:103)
+	at io.quarkus.runtime.Quarkus.run(Quarkus.java:67)
+	at io.quarkus.runtime.Quarkus.run(Quarkus.java:41)
+	at io.quarkus.runtime.Quarkus.run(Quarkus.java:120)
+	at io.quarkus.runner.GeneratedMain.main(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at io.quarkus.runner.bootstrap.StartupActionImpl$1.run(StartupActionImpl.java:103)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+2022-04-06 14:32:44,342 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Iteration 2. Connection hash: wrapped[oracle.jdbc.driver.T4CConnection@497ea26c]
+2022-04-06 14:32:44,343 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Getting connection time 2 in 0ms
+2022-04-06 14:32:44,344 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Connection is Oracle
+2022-04-06 14:32:44,346 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) hashCode = 1233035884
+2022-04-06 14:32:44,347 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [1233035884]ping = -1
+2022-04-06 14:32:44,348 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [1233035884]netConnectionId = yMJbxmrhQAyJDr1cswGCXA==
+2022-04-06 14:32:44,350 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [1233035884]usable = false
+2022-04-06 14:32:44,351 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [1233035884]closed = true
+2022-04-06 14:32:44,352 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) java.sql.SQLRecoverableException: Closed Connection: java.sql.SQLRecoverableException: Closed Connection
+	at oracle.jdbc.driver.PhysicalConnection.requireOpenConnection(PhysicalConnection.java:11770)
+	at oracle.jdbc.driver.PhysicalConnection.prepareStatementInternal(PhysicalConnection.java:2351)
+	at oracle.jdbc.driver.PhysicalConnection.prepareStatement(PhysicalConnection.java:2306)
+	at oracle.jdbc.driver.PhysicalConnection.prepareStatement(PhysicalConnection.java:2297)
+	at oracle.jdbc.driver.PhysicalConnection.prepareStatement(PhysicalConnection.java:2208)
+	at io.agroal.pool.wrapper.ConnectionWrapper.prepareStatement(ConnectionWrapper.java:659)
+	at io.vertx.oracleclient.bugs.AgoralService.testAgoral(AgoralService.java:59)
+	at io.vertx.oracleclient.bugs.AgoralService_Subclass.testAgoral$$superforward1(Unknown Source)
+	at io.vertx.oracleclient.bugs.AgoralService_Subclass$$function$$2.apply(Unknown Source)
+	at io.quarkus.arc.impl.AroundInvokeInvocationContext.proceed(AroundInvokeInvocationContext.java:54)
+	at io.quarkus.arc.runtime.devconsole.InvocationInterceptor.proceed(InvocationInterceptor.java:62)
+	at io.quarkus.arc.runtime.devconsole.InvocationInterceptor.monitor(InvocationInterceptor.java:49)
+	at io.quarkus.arc.runtime.devconsole.InvocationInterceptor_Bean.intercept(Unknown Source)
+	at io.quarkus.arc.impl.InterceptorInvocation.invoke(InterceptorInvocation.java:41)
+	at io.quarkus.arc.impl.AroundInvokeInvocationContext.perform(AroundInvokeInvocationContext.java:41)
+	at io.quarkus.arc.impl.InvocationContexts.performAroundInvoke(InvocationContexts.java:32)
+	at io.vertx.oracleclient.bugs.AgoralService_Subclass.testAgoral(Unknown Source)
+	at io.vertx.oracleclient.bugs.AgoralService_ClientProxy.testAgoral(Unknown Source)
+	at io.vertx.oracleclient.bugs.Starter.agoral(Starter.java:52)
+	at io.vertx.oracleclient.bugs.Starter.onStart(Starter.java:26)
+	at io.vertx.oracleclient.bugs.Starter_Subclass.onStart$$superforward1(Unknown Source)
+	at io.vertx.oracleclient.bugs.Starter_Subclass$$function$$2.apply(Unknown Source)
+	at io.quarkus.arc.impl.AroundInvokeInvocationContext.proceed(AroundInvokeInvocationContext.java:54)
+	at io.quarkus.arc.runtime.devconsole.InvocationInterceptor.proceed(InvocationInterceptor.java:62)
+	at io.quarkus.arc.runtime.devconsole.InvocationInterceptor.monitor(InvocationInterceptor.java:49)
+	at io.quarkus.arc.runtime.devconsole.InvocationInterceptor_Bean.intercept(Unknown Source)
+	at io.quarkus.arc.impl.InterceptorInvocation.invoke(InterceptorInvocation.java:41)
+	at io.quarkus.arc.impl.AroundInvokeInvocationContext.perform(AroundInvokeInvocationContext.java:41)
+	at io.quarkus.arc.impl.InvocationContexts.performAroundInvoke(InvocationContexts.java:32)
+	at io.vertx.oracleclient.bugs.Starter_Subclass.onStart(Unknown Source)
+	at io.vertx.oracleclient.bugs.Starter_Observer_onStart_fd71b5e0b207b7d1ef838b94eaeff75e52b8f463.notify(Unknown Source)
+	at io.quarkus.arc.impl.EventImpl$Notifier.notifyObservers(EventImpl.java:320)
+	at io.quarkus.arc.impl.EventImpl$Notifier.notify(EventImpl.java:302)
+	at io.quarkus.arc.impl.EventImpl.fire(EventImpl.java:73)
+	at io.quarkus.arc.runtime.ArcRecorder.fireLifecycleEvent(ArcRecorder.java:128)
+	at io.quarkus.arc.runtime.ArcRecorder.handleLifecycleEvents(ArcRecorder.java:97)
+	at io.quarkus.deployment.steps.LifecycleEventsBuildStep$startupEvent1144526294.deploy_0(Unknown Source)
+	at io.quarkus.deployment.steps.LifecycleEventsBuildStep$startupEvent1144526294.deploy(Unknown Source)
+	at io.quarkus.runner.ApplicationImpl.doStart(Unknown Source)
+	at io.quarkus.runtime.Application.start(Application.java:101)
+	at io.quarkus.runtime.ApplicationLifecycleManager.run(ApplicationLifecycleManager.java:103)
+	at io.quarkus.runtime.Quarkus.run(Quarkus.java:67)
+	at io.quarkus.runtime.Quarkus.run(Quarkus.java:41)
+	at io.quarkus.runtime.Quarkus.run(Quarkus.java:120)
+	at io.quarkus.runner.GeneratedMain.main(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at io.quarkus.runner.bootstrap.StartupActionImpl$1.run(StartupActionImpl.java:103)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+2022-04-06 14:32:44,357 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Iteration 3. Connection hash: wrapped[oracle.jdbc.driver.T4CConnection@38c96ffd]
+2022-04-06 14:32:44,359 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Getting connection time 3 in 0ms
+2022-04-06 14:32:44,360 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Connection is Oracle
+2022-04-06 14:32:44,361 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) hashCode = 952725501
+2022-04-06 14:32:44,362 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [952725501]ping = -1
+2022-04-06 14:32:44,362 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [952725501]netConnectionId = y4DYZJVHSsqZgPDVMMgzfg==
+2022-04-06 14:32:44,363 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [952725501]usable = false
+2022-04-06 14:32:44,364 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [952725501]closed = true
+2022-04-06 14:32:44,366 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) java.sql.SQLRecoverableException: Closed Connection: java.sql.SQLRecoverableException: Closed Connection
+	at oracle.jdbc.driver.PhysicalConnection.requireOpenConnection(PhysicalConnection.java:11770)
+	at oracle.jdbc.driver.PhysicalConnection.prepareStatementInternal(PhysicalConnection.java:2351)
+	at oracle.jdbc.driver.PhysicalConnection.prepareStatement(PhysicalConnection.java:2306)
+	at oracle.jdbc.driver.PhysicalConnection.prepareStatement(PhysicalConnection.java:2297)
+	at oracle.jdbc.driver.PhysicalConnection.prepareStatement(PhysicalConnection.java:2208)
+	at io.agroal.pool.wrapper.ConnectionWrapper.prepareStatement(ConnectionWrapper.java:659)
+	at io.vertx.oracleclient.bugs.AgoralService.testAgoral(AgoralService.java:59)
+	at io.vertx.oracleclient.bugs.AgoralService_Subclass.testAgoral$$superforward1(Unknown Source)
+	at io.vertx.oracleclient.bugs.AgoralService_Subclass$$function$$2.apply(Unknown Source)
+	at io.quarkus.arc.impl.AroundInvokeInvocationContext.proceed(AroundInvokeInvocationContext.java:54)
+	at io.quarkus.arc.runtime.devconsole.InvocationInterceptor.proceed(InvocationInterceptor.java:62)
+	at io.quarkus.arc.runtime.devconsole.InvocationInterceptor.monitor(InvocationInterceptor.java:49)
+	at io.quarkus.arc.runtime.devconsole.InvocationInterceptor_Bean.intercept(Unknown Source)
+	at io.quarkus.arc.impl.InterceptorInvocation.invoke(InterceptorInvocation.java:41)
+	at io.quarkus.arc.impl.AroundInvokeInvocationContext.perform(AroundInvokeInvocationContext.java:41)
+	at io.quarkus.arc.impl.InvocationContexts.performAroundInvoke(InvocationContexts.java:32)
+	at io.vertx.oracleclient.bugs.AgoralService_Subclass.testAgoral(Unknown Source)
+	at io.vertx.oracleclient.bugs.AgoralService_ClientProxy.testAgoral(Unknown Source)
+	at io.vertx.oracleclient.bugs.Starter.agoral(Starter.java:52)
+	at io.vertx.oracleclient.bugs.Starter.onStart(Starter.java:26)
+	at io.vertx.oracleclient.bugs.Starter_Subclass.onStart$$superforward1(Unknown Source)
+	at io.vertx.oracleclient.bugs.Starter_Subclass$$function$$2.apply(Unknown Source)
+	at io.quarkus.arc.impl.AroundInvokeInvocationContext.proceed(AroundInvokeInvocationContext.java:54)
+	at io.quarkus.arc.runtime.devconsole.InvocationInterceptor.proceed(InvocationInterceptor.java:62)
+	at io.quarkus.arc.runtime.devconsole.InvocationInterceptor.monitor(InvocationInterceptor.java:49)
+	at io.quarkus.arc.runtime.devconsole.InvocationInterceptor_Bean.intercept(Unknown Source)
+	at io.quarkus.arc.impl.InterceptorInvocation.invoke(InterceptorInvocation.java:41)
+	at io.quarkus.arc.impl.AroundInvokeInvocationContext.perform(AroundInvokeInvocationContext.java:41)
+	at io.quarkus.arc.impl.InvocationContexts.performAroundInvoke(InvocationContexts.java:32)
+	at io.vertx.oracleclient.bugs.Starter_Subclass.onStart(Unknown Source)
+	at io.vertx.oracleclient.bugs.Starter_Observer_onStart_fd71b5e0b207b7d1ef838b94eaeff75e52b8f463.notify(Unknown Source)
+	at io.quarkus.arc.impl.EventImpl$Notifier.notifyObservers(EventImpl.java:320)
+	at io.quarkus.arc.impl.EventImpl$Notifier.notify(EventImpl.java:302)
+	at io.quarkus.arc.impl.EventImpl.fire(EventImpl.java:73)
+	at io.quarkus.arc.runtime.ArcRecorder.fireLifecycleEvent(ArcRecorder.java:128)
+	at io.quarkus.arc.runtime.ArcRecorder.handleLifecycleEvents(ArcRecorder.java:97)
+	at io.quarkus.deployment.steps.LifecycleEventsBuildStep$startupEvent1144526294.deploy_0(Unknown Source)
+	at io.quarkus.deployment.steps.LifecycleEventsBuildStep$startupEvent1144526294.deploy(Unknown Source)
+	at io.quarkus.runner.ApplicationImpl.doStart(Unknown Source)
+	at io.quarkus.runtime.Application.start(Application.java:101)
+	at io.quarkus.runtime.ApplicationLifecycleManager.run(ApplicationLifecycleManager.java:103)
+	at io.quarkus.runtime.Quarkus.run(Quarkus.java:67)
+	at io.quarkus.runtime.Quarkus.run(Quarkus.java:41)
+	at io.quarkus.runtime.Quarkus.run(Quarkus.java:120)
+	at io.quarkus.runner.GeneratedMain.main(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at io.quarkus.runner.bootstrap.StartupActionImpl$1.run(StartupActionImpl.java:103)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+2022-04-06 14:32:44,370 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Iteration 4. Connection hash: wrapped[oracle.jdbc.driver.T4CConnection@4b9ceebc]
+2022-04-06 14:32:44,371 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Getting connection time 4 in 0ms
+2022-04-06 14:32:44,371 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Connection is Oracle
+2022-04-06 14:32:44,372 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) hashCode = 1268575932
+2022-04-06 14:32:44,373 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [1268575932]ping = -1
+2022-04-06 14:32:44,374 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [1268575932]netConnectionId = ecYYVbucT1Kljdg9Zq4lfA==
+2022-04-06 14:32:44,375 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [1268575932]usable = false
+2022-04-06 14:32:44,375 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [1268575932]closed = true
+2022-04-06 14:32:44,376 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) java.sql.SQLRecoverableException: Closed Connection: java.sql.SQLRecoverableException: Closed Connection
+	at oracle.jdbc.driver.PhysicalConnection.requireOpenConnection(PhysicalConnection.java:11770)
+	at oracle.jdbc.driver.PhysicalConnection.prepareStatementInternal(PhysicalConnection.java:2351)
+	at oracle.jdbc.driver.PhysicalConnection.prepareStatement(PhysicalConnection.java:2306)
+	at oracle.jdbc.driver.PhysicalConnection.prepareStatement(PhysicalConnection.java:2297)
+	at oracle.jdbc.driver.PhysicalConnection.prepareStatement(PhysicalConnection.java:2208)
+	at io.agroal.pool.wrapper.ConnectionWrapper.prepareStatement(ConnectionWrapper.java:659)
+	at io.vertx.oracleclient.bugs.AgoralService.testAgoral(AgoralService.java:59)
+	at io.vertx.oracleclient.bugs.AgoralService_Subclass.testAgoral$$superforward1(Unknown Source)
+	at io.vertx.oracleclient.bugs.AgoralService_Subclass$$function$$2.apply(Unknown Source)
+	at io.quarkus.arc.impl.AroundInvokeInvocationContext.proceed(AroundInvokeInvocationContext.java:54)
+	at io.quarkus.arc.runtime.devconsole.InvocationInterceptor.proceed(InvocationInterceptor.java:62)
+	at io.quarkus.arc.runtime.devconsole.InvocationInterceptor.monitor(InvocationInterceptor.java:49)
+	at io.quarkus.arc.runtime.devconsole.InvocationInterceptor_Bean.intercept(Unknown Source)
+	at io.quarkus.arc.impl.InterceptorInvocation.invoke(InterceptorInvocation.java:41)
+	at io.quarkus.arc.impl.AroundInvokeInvocationContext.perform(AroundInvokeInvocationContext.java:41)
+	at io.quarkus.arc.impl.InvocationContexts.performAroundInvoke(InvocationContexts.java:32)
+	at io.vertx.oracleclient.bugs.AgoralService_Subclass.testAgoral(Unknown Source)
+	at io.vertx.oracleclient.bugs.AgoralService_ClientProxy.testAgoral(Unknown Source)
+	at io.vertx.oracleclient.bugs.Starter.agoral(Starter.java:52)
+	at io.vertx.oracleclient.bugs.Starter.onStart(Starter.java:26)
+	at io.vertx.oracleclient.bugs.Starter_Subclass.onStart$$superforward1(Unknown Source)
+	at io.vertx.oracleclient.bugs.Starter_Subclass$$function$$2.apply(Unknown Source)
+	at io.quarkus.arc.impl.AroundInvokeInvocationContext.proceed(AroundInvokeInvocationContext.java:54)
+	at io.quarkus.arc.runtime.devconsole.InvocationInterceptor.proceed(InvocationInterceptor.java:62)
+	at io.quarkus.arc.runtime.devconsole.InvocationInterceptor.monitor(InvocationInterceptor.java:49)
+	at io.quarkus.arc.runtime.devconsole.InvocationInterceptor_Bean.intercept(Unknown Source)
+	at io.quarkus.arc.impl.InterceptorInvocation.invoke(InterceptorInvocation.java:41)
+	at io.quarkus.arc.impl.AroundInvokeInvocationContext.perform(AroundInvokeInvocationContext.java:41)
+	at io.quarkus.arc.impl.InvocationContexts.performAroundInvoke(InvocationContexts.java:32)
+	at io.vertx.oracleclient.bugs.Starter_Subclass.onStart(Unknown Source)
+	at io.vertx.oracleclient.bugs.Starter_Observer_onStart_fd71b5e0b207b7d1ef838b94eaeff75e52b8f463.notify(Unknown Source)
+	at io.quarkus.arc.impl.EventImpl$Notifier.notifyObservers(EventImpl.java:320)
+	at io.quarkus.arc.impl.EventImpl$Notifier.notify(EventImpl.java:302)
+	at io.quarkus.arc.impl.EventImpl.fire(EventImpl.java:73)
+	at io.quarkus.arc.runtime.ArcRecorder.fireLifecycleEvent(ArcRecorder.java:128)
+	at io.quarkus.arc.runtime.ArcRecorder.handleLifecycleEvents(ArcRecorder.java:97)
+	at io.quarkus.deployment.steps.LifecycleEventsBuildStep$startupEvent1144526294.deploy_0(Unknown Source)
+	at io.quarkus.deployment.steps.LifecycleEventsBuildStep$startupEvent1144526294.deploy(Unknown Source)
+	at io.quarkus.runner.ApplicationImpl.doStart(Unknown Source)
+	at io.quarkus.runtime.Application.start(Application.java:101)
+	at io.quarkus.runtime.ApplicationLifecycleManager.run(ApplicationLifecycleManager.java:103)
+	at io.quarkus.runtime.Quarkus.run(Quarkus.java:67)
+	at io.quarkus.runtime.Quarkus.run(Quarkus.java:41)
+	at io.quarkus.runtime.Quarkus.run(Quarkus.java:120)
+	at io.quarkus.runner.GeneratedMain.main(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at io.quarkus.runner.bootstrap.StartupActionImpl$1.run(StartupActionImpl.java:103)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+2022-04-06 14:33:05,423 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) java.sql.SQLRecoverableException: IO Error: The Network Adapter could not establish the connection (CONNECTION_ID=lnqutbMESgiHFHzdkICh3A==): java.sql.SQLRecoverableException: IO Error: The Network Adapter could not establish the connection (CONNECTION_ID=lnqutbMESgiHFHzdkICh3A==)
+	at oracle.jdbc.driver.T4CConnection.handleLogonNetException(T4CConnection.java:882)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:687)
+	at oracle.jdbc.driver.PhysicalConnection.connect(PhysicalConnection.java:1086)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:90)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:728)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:649)
+	at io.agroal.pool.ConnectionFactory.createConnection(ConnectionFactory.java:210)
+	at io.agroal.pool.ConnectionPool$CreateConnectionTask.call(ConnectionPool.java:513)
+	at io.agroal.pool.ConnectionPool$CreateConnectionTask.call(ConnectionPool.java:494)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at io.agroal.pool.util.PriorityScheduledExecutor.beforeExecute(PriorityScheduledExecutor.java:75)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection (CONNECTION_ID=lnqutbMESgiHFHzdkICh3A==)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:677)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:568)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:933)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:346)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:2155)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:652)
+	... 12 more
+Caused by: java.io.IOException: Connection timed out: connect, socket connect lapse 21032 ms. 10.109.34.224 1524  0 (1/1) true
+	at oracle.net.nt.TcpNTAdapter.establishSocket(TcpNTAdapter.java:421)
+	at oracle.net.nt.TcpNTAdapter.doLocalDNSLookupConnect(TcpNTAdapter.java:303)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:265)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:238)
+	at oracle.net.nt.ConnStrategy.executeConnOption(ConnStrategy.java:902)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:638)
+	... 17 more
+Caused by: java.net.ConnectException: Connection timed out: connect
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:579)
+	at java.base/sun.nio.ch.Net.connect(Net.java:586)
+	at java.base/sun.nio.ch.SocketChannelImpl.connect(SocketChannelImpl.java:853)
+	at java.base/java.nio.channels.SocketChannel.open(SocketChannel.java:285)
+	at oracle.net.nt.TimeoutSocketChannel.connect(TimeoutSocketChannel.java:184)
+	at oracle.net.nt.TimeoutSocketChannel.<init>(TimeoutSocketChannel.java:158)
+	at oracle.net.nt.TcpNTAdapter.establishSocket(TcpNTAdapter.java:380)
+	... 22 more
+
+2022-04-06 14:33:26,447 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) java.sql.SQLRecoverableException: IO Error: The Network Adapter could not establish the connection (CONNECTION_ID=eyVBqoJ1TY+6nZW0wx11bg==): java.sql.SQLRecoverableException: IO Error: The Network Adapter could not establish the connection (CONNECTION_ID=eyVBqoJ1TY+6nZW0wx11bg==)
+	at oracle.jdbc.driver.T4CConnection.handleLogonNetException(T4CConnection.java:882)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:687)
+	at oracle.jdbc.driver.PhysicalConnection.connect(PhysicalConnection.java:1086)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:90)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:728)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:649)
+	at io.agroal.pool.ConnectionFactory.createConnection(ConnectionFactory.java:210)
+	at io.agroal.pool.ConnectionPool$CreateConnectionTask.call(ConnectionPool.java:513)
+	at io.agroal.pool.ConnectionPool$CreateConnectionTask.call(ConnectionPool.java:494)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at io.agroal.pool.util.PriorityScheduledExecutor.beforeExecute(PriorityScheduledExecutor.java:75)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection (CONNECTION_ID=eyVBqoJ1TY+6nZW0wx11bg==)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:677)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:568)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:933)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:346)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:2155)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:652)
+	... 12 more
+Caused by: java.io.IOException: Connection timed out: connect, socket connect lapse 21018 ms. 10.109.34.224 1524  0 (1/1) true
+	at oracle.net.nt.TcpNTAdapter.establishSocket(TcpNTAdapter.java:421)
+	at oracle.net.nt.TcpNTAdapter.doLocalDNSLookupConnect(TcpNTAdapter.java:303)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:265)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:238)
+	at oracle.net.nt.ConnStrategy.executeConnOption(ConnStrategy.java:902)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:638)
+	... 17 more
+Caused by: java.net.ConnectException: Connection timed out: connect
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:579)
+	at java.base/sun.nio.ch.Net.connect(Net.java:586)
+	at java.base/sun.nio.ch.SocketChannelImpl.connect(SocketChannelImpl.java:853)
+	at java.base/java.nio.channels.SocketChannel.open(SocketChannel.java:285)
+	at oracle.net.nt.TimeoutSocketChannel.connect(TimeoutSocketChannel.java:184)
+	at oracle.net.nt.TimeoutSocketChannel.<init>(TimeoutSocketChannel.java:158)
+	at oracle.net.nt.TcpNTAdapter.establishSocket(TcpNTAdapter.java:380)
+	... 22 more
+
+2022-04-06 14:33:47,504 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) java.sql.SQLRecoverableException: IO Error: The Network Adapter could not establish the connection (CONNECTION_ID=xv7oueFXTnmJc5U6GBV2IQ==): java.sql.SQLRecoverableException: IO Error: The Network Adapter could not establish the connection (CONNECTION_ID=xv7oueFXTnmJc5U6GBV2IQ==)
+	at oracle.jdbc.driver.T4CConnection.handleLogonNetException(T4CConnection.java:882)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:687)
+	at oracle.jdbc.driver.PhysicalConnection.connect(PhysicalConnection.java:1086)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:90)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:728)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:649)
+	at io.agroal.pool.ConnectionFactory.createConnection(ConnectionFactory.java:210)
+	at io.agroal.pool.ConnectionPool$CreateConnectionTask.call(ConnectionPool.java:513)
+	at io.agroal.pool.ConnectionPool$CreateConnectionTask.call(ConnectionPool.java:494)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at io.agroal.pool.util.PriorityScheduledExecutor.beforeExecute(PriorityScheduledExecutor.java:75)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection (CONNECTION_ID=xv7oueFXTnmJc5U6GBV2IQ==)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:677)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:568)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:933)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:346)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:2155)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:652)
+	... 12 more
+Caused by: java.io.IOException: Connection timed out: connect, socket connect lapse 21051 ms. 10.109.34.224 1524  0 (1/1) true
+	at oracle.net.nt.TcpNTAdapter.establishSocket(TcpNTAdapter.java:421)
+	at oracle.net.nt.TcpNTAdapter.doLocalDNSLookupConnect(TcpNTAdapter.java:303)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:265)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:238)
+	at oracle.net.nt.ConnStrategy.executeConnOption(ConnStrategy.java:902)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:638)
+	... 17 more
+Caused by: java.net.ConnectException: Connection timed out: connect
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:579)
+	at java.base/sun.nio.ch.Net.connect(Net.java:586)
+	at java.base/sun.nio.ch.SocketChannelImpl.connect(SocketChannelImpl.java:853)
+	at java.base/java.nio.channels.SocketChannel.open(SocketChannel.java:285)
+	at oracle.net.nt.TimeoutSocketChannel.connect(TimeoutSocketChannel.java:184)
+	at oracle.net.nt.TimeoutSocketChannel.<init>(TimeoutSocketChannel.java:158)
+	at oracle.net.nt.TcpNTAdapter.establishSocket(TcpNTAdapter.java:380)
+	... 22 more
+
+2022-04-06 14:34:08,538 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) java.sql.SQLRecoverableException: IO Error: The Network Adapter could not establish the connection (CONNECTION_ID=37RJaN4QT16PWEusOJHLhg==): java.sql.SQLRecoverableException: IO Error: The Network Adapter could not establish the connection (CONNECTION_ID=37RJaN4QT16PWEusOJHLhg==)
+	at oracle.jdbc.driver.T4CConnection.handleLogonNetException(T4CConnection.java:882)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:687)
+	at oracle.jdbc.driver.PhysicalConnection.connect(PhysicalConnection.java:1086)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:90)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:728)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:649)
+	at io.agroal.pool.ConnectionFactory.createConnection(ConnectionFactory.java:210)
+	at io.agroal.pool.ConnectionPool$CreateConnectionTask.call(ConnectionPool.java:513)
+	at io.agroal.pool.ConnectionPool$CreateConnectionTask.call(ConnectionPool.java:494)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at io.agroal.pool.util.PriorityScheduledExecutor.beforeExecute(PriorityScheduledExecutor.java:75)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection (CONNECTION_ID=37RJaN4QT16PWEusOJHLhg==)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:677)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:568)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:933)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:346)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:2155)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:652)
+	... 12 more
+Caused by: java.io.IOException: Connection timed out: connect, socket connect lapse 21030 ms. 10.109.34.224 1524  0 (1/1) true
+	at oracle.net.nt.TcpNTAdapter.establishSocket(TcpNTAdapter.java:421)
+	at oracle.net.nt.TcpNTAdapter.doLocalDNSLookupConnect(TcpNTAdapter.java:303)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:265)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:238)
+	at oracle.net.nt.ConnStrategy.executeConnOption(ConnStrategy.java:902)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:638)
+	... 17 more
+Caused by: java.net.ConnectException: Connection timed out: connect
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:579)
+	at java.base/sun.nio.ch.Net.connect(Net.java:586)
+	at java.base/sun.nio.ch.SocketChannelImpl.connect(SocketChannelImpl.java:853)
+	at java.base/java.nio.channels.SocketChannel.open(SocketChannel.java:285)
+	at oracle.net.nt.TimeoutSocketChannel.connect(TimeoutSocketChannel.java:184)
+	at oracle.net.nt.TimeoutSocketChannel.<init>(TimeoutSocketChannel.java:158)
+	at oracle.net.nt.TcpNTAdapter.establishSocket(TcpNTAdapter.java:380)
+	... 22 more
+
+2022-04-06 14:34:29,598 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) java.sql.SQLRecoverableException: IO Error: The Network Adapter could not establish the connection (CONNECTION_ID=pvDe/m8YSSG40giFPecC2A==): java.sql.SQLRecoverableException: IO Error: The Network Adapter could not establish the connection (CONNECTION_ID=pvDe/m8YSSG40giFPecC2A==)
+	at oracle.jdbc.driver.T4CConnection.handleLogonNetException(T4CConnection.java:882)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:687)
+	at oracle.jdbc.driver.PhysicalConnection.connect(PhysicalConnection.java:1086)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:90)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:728)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:649)
+	at io.agroal.pool.ConnectionFactory.createConnection(ConnectionFactory.java:210)
+	at io.agroal.pool.ConnectionPool$CreateConnectionTask.call(ConnectionPool.java:513)
+	at io.agroal.pool.ConnectionPool$CreateConnectionTask.call(ConnectionPool.java:494)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at io.agroal.pool.util.PriorityScheduledExecutor.beforeExecute(PriorityScheduledExecutor.java:75)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection (CONNECTION_ID=pvDe/m8YSSG40giFPecC2A==)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:677)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:568)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:933)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:346)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:2155)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:652)
+	... 12 more
+Caused by: java.io.IOException: Connection timed out: connect, socket connect lapse 21056 ms. 10.109.34.224 1524  0 (1/1) true
+	at oracle.net.nt.TcpNTAdapter.establishSocket(TcpNTAdapter.java:421)
+	at oracle.net.nt.TcpNTAdapter.doLocalDNSLookupConnect(TcpNTAdapter.java:303)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:265)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:238)
+	at oracle.net.nt.ConnStrategy.executeConnOption(ConnStrategy.java:902)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:638)
+	... 17 more
+Caused by: java.net.ConnectException: Connection timed out: connect
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:579)
+	at java.base/sun.nio.ch.Net.connect(Net.java:586)
+	at java.base/sun.nio.ch.SocketChannelImpl.connect(SocketChannelImpl.java:853)
+	at java.base/java.nio.channels.SocketChannel.open(SocketChannel.java:285)
+	at oracle.net.nt.TimeoutSocketChannel.connect(TimeoutSocketChannel.java:184)
+	at oracle.net.nt.TimeoutSocketChannel.<init>(TimeoutSocketChannel.java:158)
+	at oracle.net.nt.TcpNTAdapter.establishSocket(TcpNTAdapter.java:380)
+	... 22 more
+
+2022-04-06 14:34:29,600 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Agoral Test finished
+
+2022-04-06 14:36:28,830 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Agoral Test started
+2022-04-06 14:36:32,127 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Iteration 0. Connection hash: wrapped[oracle.jdbc.driver.T4CConnection@57123d02]
+2022-04-06 14:36:32,128 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Getting connection time 0 in 3296ms
+2022-04-06 14:36:32,128 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Connection is Oracle
+2022-04-06 14:36:32,493 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) hashCode = 1460813058
+2022-04-06 14:36:32,494 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [1460813058]ping = 0
+2022-04-06 14:36:32,495 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [1460813058]netConnectionId = 4cg6lMYMS3SlsvhUsrxb4A==
+2022-04-06 14:36:32,495 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [1460813058]usable = true
+2022-04-06 14:36:32,496 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [1460813058]closed = false
+2022-04-06 14:36:32,861 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Exec query '0' in 365ms
+2022-04-06 14:36:32,862 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Total for Agoral test '0' is 4031ms
+2022-04-06 14:36:32,863 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Iteration 1. Connection hash: wrapped[oracle.jdbc.driver.T4CConnection@57123d02]
+2022-04-06 14:36:32,863 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Getting connection time 1 in 0ms
+2022-04-06 14:36:32,864 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Connection is Oracle
+2022-04-06 14:36:33,223 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) hashCode = 1460813058
+2022-04-06 14:36:33,223 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [1460813058]ping = 0
+2022-04-06 14:36:33,224 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [1460813058]netConnectionId = 4cg6lMYMS3SlsvhUsrxb4A==
+2022-04-06 14:36:33,224 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [1460813058]usable = true
+2022-04-06 14:36:33,224 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [1460813058]closed = false
+2022-04-06 14:36:33,590 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Exec query '1' in 366ms
+2022-04-06 14:36:33,590 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Total for Agoral test '1' is 727ms
+2022-04-06 14:36:33,591 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Iteration 2. Connection hash: wrapped[oracle.jdbc.driver.T4CConnection@57123d02]
+2022-04-06 14:36:33,591 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Getting connection time 2 in 0ms
+2022-04-06 14:36:33,591 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Connection is Oracle
+2022-04-06 14:36:33,949 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) hashCode = 1460813058
+2022-04-06 14:36:33,949 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [1460813058]ping = 0
+2022-04-06 14:36:33,949 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [1460813058]netConnectionId = 4cg6lMYMS3SlsvhUsrxb4A==
+2022-04-06 14:36:33,950 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [1460813058]usable = true
+2022-04-06 14:36:33,950 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [1460813058]closed = false
+2022-04-06 14:36:34,306 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Exec query '2' in 356ms
+2022-04-06 14:36:34,306 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Total for Agoral test '2' is 715ms
+2022-04-06 14:36:34,307 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Iteration 3. Connection hash: wrapped[oracle.jdbc.driver.T4CConnection@57123d02]
+2022-04-06 14:36:34,307 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Getting connection time 3 in 0ms
+2022-04-06 14:36:34,308 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Connection is Oracle
+2022-04-06 14:36:34,676 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) hashCode = 1460813058
+2022-04-06 14:36:34,677 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [1460813058]ping = 0
+2022-04-06 14:36:34,677 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [1460813058]netConnectionId = 4cg6lMYMS3SlsvhUsrxb4A==
+2022-04-06 14:36:34,677 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [1460813058]usable = true
+2022-04-06 14:36:34,677 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [1460813058]closed = false
+2022-04-06 14:36:35,036 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Exec query '3' in 359ms
+2022-04-06 14:36:35,036 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Total for Agoral test '3' is 729ms
+2022-04-06 14:36:35,037 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Iteration 4. Connection hash: wrapped[oracle.jdbc.driver.T4CConnection@57123d02]
+2022-04-06 14:36:35,037 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Getting connection time 4 in 0ms
+2022-04-06 14:36:35,037 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Connection is Oracle
+2022-04-06 14:36:35,404 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) hashCode = 1460813058
+2022-04-06 14:36:35,404 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [1460813058]ping = 0
+2022-04-06 14:36:35,405 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [1460813058]netConnectionId = 4cg6lMYMS3SlsvhUsrxb4A==
+2022-04-06 14:36:35,405 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [1460813058]usable = true
+2022-04-06 14:36:35,405 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [1460813058]closed = false
+2022-04-06 14:36:35,768 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Exec query '4' in 363ms
+2022-04-06 14:36:35,769 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Total for Agoral test '4' is 732ms
+2022-04-06 14:36:35,769 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Iteration 5. Connection hash: wrapped[oracle.jdbc.driver.T4CConnection@57123d02]
+2022-04-06 14:36:35,770 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Getting connection time 5 in 0ms
+2022-04-06 14:36:35,770 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Connection is Oracle
+2022-04-06 14:36:36,128 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) hashCode = 1460813058
+2022-04-06 14:36:36,129 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [1460813058]ping = 0
+2022-04-06 14:36:36,129 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [1460813058]netConnectionId = 4cg6lMYMS3SlsvhUsrxb4A==
+2022-04-06 14:36:36,129 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [1460813058]usable = true
+2022-04-06 14:36:36,129 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [1460813058]closed = false
+2022-04-06 14:36:36,498 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Exec query '5' in 368ms
+2022-04-06 14:36:36,499 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Total for Agoral test '5' is 730ms
+2022-04-06 14:36:36,499 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Iteration 6. Connection hash: wrapped[oracle.jdbc.driver.T4CConnection@57123d02]
+2022-04-06 14:36:36,499 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Getting connection time 6 in 0ms
+2022-04-06 14:36:36,500 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Connection is Oracle
+2022-04-06 14:36:36,861 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) hashCode = 1460813058
+2022-04-06 14:36:36,862 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [1460813058]ping = 0
+2022-04-06 14:36:36,862 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [1460813058]netConnectionId = 4cg6lMYMS3SlsvhUsrxb4A==
+2022-04-06 14:36:36,863 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [1460813058]usable = true
+2022-04-06 14:36:36,863 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [1460813058]closed = false
+2022-04-06 14:36:37,222 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Exec query '6' in 359ms
+2022-04-06 14:36:37,223 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Total for Agoral test '6' is 724ms
+2022-04-06 14:36:37,224 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Iteration 7. Connection hash: wrapped[oracle.jdbc.driver.T4CConnection@57123d02]
+2022-04-06 14:36:37,224 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Getting connection time 7 in 0ms
+2022-04-06 14:36:37,225 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Connection is Oracle
+2022-04-06 14:36:37,586 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) hashCode = 1460813058
+2022-04-06 14:36:37,586 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [1460813058]ping = 0
+2022-04-06 14:36:37,586 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [1460813058]netConnectionId = 4cg6lMYMS3SlsvhUsrxb4A==
+2022-04-06 14:36:37,586 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [1460813058]usable = true
+2022-04-06 14:36:37,587 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [1460813058]closed = false
+2022-04-06 14:36:37,946 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Exec query '7' in 359ms
+2022-04-06 14:36:37,946 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Total for Agoral test '7' is 722ms
+2022-04-06 14:36:37,947 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Iteration 8. Connection hash: wrapped[oracle.jdbc.driver.T4CConnection@57123d02]
+2022-04-06 14:36:37,947 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Getting connection time 8 in 0ms
+2022-04-06 14:36:37,947 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Connection is Oracle
+2022-04-06 14:36:38,310 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) hashCode = 1460813058
+2022-04-06 14:36:38,310 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [1460813058]ping = 0
+2022-04-06 14:36:38,311 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [1460813058]netConnectionId = 4cg6lMYMS3SlsvhUsrxb4A==
+2022-04-06 14:36:38,311 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [1460813058]usable = true
+2022-04-06 14:36:38,311 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [1460813058]closed = false
+2022-04-06 14:36:38,673 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Exec query '8' in 362ms
+2022-04-06 14:36:38,673 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Total for Agoral test '8' is 726ms
+2022-04-06 14:36:38,674 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Iteration 9. Connection hash: wrapped[oracle.jdbc.driver.T4CConnection@57123d02]
+2022-04-06 14:36:38,674 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Getting connection time 9 in 0ms
+2022-04-06 14:36:38,675 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Connection is Oracle
+2022-04-06 14:36:39,039 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) hashCode = 1460813058
+2022-04-06 14:36:39,040 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [1460813058]ping = 0
+2022-04-06 14:36:39,040 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [1460813058]netConnectionId = 4cg6lMYMS3SlsvhUsrxb4A==
+2022-04-06 14:36:39,040 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [1460813058]usable = true
+2022-04-06 14:36:39,040 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) [1460813058]closed = false
+2022-04-06 14:36:39,408 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Exec query '9' in 368ms
+2022-04-06 14:36:39,409 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Total for Agoral test '9' is 735ms
+2022-04-06 14:36:39,410 localhost bug-with-pool-connections-dev.jar[33028] INFO  [agoral] (Quarkus Main Thread) Agoral Test finished
+

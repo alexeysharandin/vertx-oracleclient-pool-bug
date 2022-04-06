@@ -1,0 +1,379 @@
+2022-04-06 14:39:43,489 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Test Oracle over Vertx
+2022-04-06 14:39:46,855 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) delegate = io.vertx.oracleclient.impl.OracleConnectionImpl@4f4fe74a
+2022-04-06 14:39:46,855 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) unwrap = io.vertx.sqlclient.impl.pool.SqlConnectionPool$PooledConnection@77a217da
+2022-04-06 14:39:46,855 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) handler = io.vertx.oracleclient.impl.CommandHandler@336526fe
+2022-04-06 14:39:46,857 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) o = oracle.jdbc.driver.T4CConnection@2b327fed
+2022-04-06 14:39:47,222 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) hashCode = 724729837
+2022-04-06 14:39:47,223 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]ping = 0
+2022-04-06 14:39:47,224 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]netConnectionId = 9wZOB1jiSVWuH3J7/F1fGA==
+2022-04-06 14:39:47,224 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]usable = true
+2022-04-06 14:39:47,224 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]closed = false
+2022-04-06 14:39:47,225 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Iteration 0. Connection hash: io.vertx.oracleclient.impl.OracleConnectionImpl@4f4fe74a
+2022-04-06 14:39:47,225 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Getting connection time 0 in 3735 ms
+2022-04-06 14:39:47,613 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Exec query '0' in 388ms
+2022-04-06 14:39:47,613 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Total for Vertx test '0' is 4123 ms
+2022-04-06 14:39:47,616 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) delegate = io.vertx.oracleclient.impl.OracleConnectionImpl@64047a31
+2022-04-06 14:39:47,616 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) unwrap = io.vertx.sqlclient.impl.pool.SqlConnectionPool$PooledConnection@77a217da
+2022-04-06 14:39:47,616 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) handler = io.vertx.oracleclient.impl.CommandHandler@336526fe
+2022-04-06 14:39:47,616 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) o = oracle.jdbc.driver.T4CConnection@2b327fed
+2022-04-06 14:39:47,977 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) hashCode = 724729837
+2022-04-06 14:39:47,977 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]ping = 0
+2022-04-06 14:39:47,977 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]netConnectionId = 9wZOB1jiSVWuH3J7/F1fGA==
+2022-04-06 14:39:47,977 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]usable = true
+2022-04-06 14:39:47,977 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]closed = false
+2022-04-06 14:39:47,977 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Iteration 1. Connection hash: io.vertx.oracleclient.impl.OracleConnectionImpl@64047a31
+2022-04-06 14:39:47,978 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Getting connection time 1 in 363 ms
+2022-04-06 14:39:48,343 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Exec query '1' in 365ms
+2022-04-06 14:39:48,344 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Total for Vertx test '1' is 729 ms
+2022-04-06 14:39:48,345 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) delegate = io.vertx.oracleclient.impl.OracleConnectionImpl@7138588e
+2022-04-06 14:39:48,346 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) unwrap = io.vertx.sqlclient.impl.pool.SqlConnectionPool$PooledConnection@77a217da
+2022-04-06 14:39:48,346 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) handler = io.vertx.oracleclient.impl.CommandHandler@336526fe
+2022-04-06 14:39:48,346 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) o = oracle.jdbc.driver.T4CConnection@2b327fed
+2022-04-06 14:39:48,710 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) hashCode = 724729837
+2022-04-06 14:39:48,710 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]ping = 0
+2022-04-06 14:39:48,711 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]netConnectionId = 9wZOB1jiSVWuH3J7/F1fGA==
+2022-04-06 14:39:48,711 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]usable = true
+2022-04-06 14:39:48,711 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]closed = false
+2022-04-06 14:39:48,711 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Iteration 2. Connection hash: io.vertx.oracleclient.impl.OracleConnectionImpl@7138588e
+2022-04-06 14:39:48,711 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Getting connection time 2 in 366 ms
+2022-04-06 14:39:49,070 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Exec query '2' in 357ms
+2022-04-06 14:39:49,070 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Total for Vertx test '2' is 725 ms
+2022-04-06 14:39:49,071 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) delegate = io.vertx.oracleclient.impl.OracleConnectionImpl@40ef4316
+2022-04-06 14:39:49,073 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) unwrap = io.vertx.sqlclient.impl.pool.SqlConnectionPool$PooledConnection@77a217da
+2022-04-06 14:39:49,074 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) handler = io.vertx.oracleclient.impl.CommandHandler@336526fe
+2022-04-06 14:39:49,074 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) o = oracle.jdbc.driver.T4CConnection@2b327fed
+2022-04-06 14:39:49,444 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) hashCode = 724729837
+2022-04-06 14:39:49,444 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]ping = 0
+2022-04-06 14:39:49,445 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]netConnectionId = 9wZOB1jiSVWuH3J7/F1fGA==
+2022-04-06 14:39:49,445 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]usable = true
+2022-04-06 14:39:49,445 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]closed = false
+2022-04-06 14:39:49,445 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Iteration 3. Connection hash: io.vertx.oracleclient.impl.OracleConnectionImpl@40ef4316
+2022-04-06 14:39:49,445 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Getting connection time 3 in 374 ms
+2022-04-06 14:39:49,808 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Exec query '3' in 363ms
+2022-04-06 14:39:49,808 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Total for Vertx test '3' is 737 ms
+2022-04-06 14:39:49,810 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) delegate = io.vertx.oracleclient.impl.OracleConnectionImpl@59fba3cc
+2022-04-06 14:39:49,810 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) unwrap = io.vertx.sqlclient.impl.pool.SqlConnectionPool$PooledConnection@77a217da
+2022-04-06 14:39:49,810 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) handler = io.vertx.oracleclient.impl.CommandHandler@336526fe
+2022-04-06 14:39:49,810 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) o = oracle.jdbc.driver.T4CConnection@2b327fed
+2022-04-06 14:39:50,169 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) hashCode = 724729837
+2022-04-06 14:39:50,169 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]ping = 0
+2022-04-06 14:39:50,170 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]netConnectionId = 9wZOB1jiSVWuH3J7/F1fGA==
+2022-04-06 14:39:50,170 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]usable = true
+2022-04-06 14:39:50,170 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]closed = false
+2022-04-06 14:39:50,170 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Iteration 4. Connection hash: io.vertx.oracleclient.impl.OracleConnectionImpl@59fba3cc
+2022-04-06 14:39:50,170 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Getting connection time 4 in 361 ms
+2022-04-06 14:39:50,533 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Exec query '4' in 363ms
+2022-04-06 14:39:50,533 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Total for Vertx test '4' is 724 ms
+2022-04-06 14:39:50,534 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) delegate = io.vertx.oracleclient.impl.OracleConnectionImpl@1ee99f30
+2022-04-06 14:39:50,535 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) unwrap = io.vertx.sqlclient.impl.pool.SqlConnectionPool$PooledConnection@77a217da
+2022-04-06 14:39:50,535 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) handler = io.vertx.oracleclient.impl.CommandHandler@336526fe
+2022-04-06 14:39:50,535 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) o = oracle.jdbc.driver.T4CConnection@2b327fed
+2022-04-06 14:39:50,899 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) hashCode = 724729837
+2022-04-06 14:39:50,899 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]ping = 0
+2022-04-06 14:39:50,899 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]netConnectionId = 9wZOB1jiSVWuH3J7/F1fGA==
+2022-04-06 14:39:50,899 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]usable = true
+2022-04-06 14:39:50,899 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]closed = false
+2022-04-06 14:39:50,900 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Iteration 5. Connection hash: io.vertx.oracleclient.impl.OracleConnectionImpl@1ee99f30
+2022-04-06 14:39:50,900 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Getting connection time 5 in 366 ms
+2022-04-06 14:39:51,259 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Exec query '5' in 359ms
+2022-04-06 14:39:51,260 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Total for Vertx test '5' is 726 ms
+2022-04-06 14:39:51,262 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) delegate = io.vertx.oracleclient.impl.OracleConnectionImpl@2d26484b
+2022-04-06 14:39:51,263 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) unwrap = io.vertx.sqlclient.impl.pool.SqlConnectionPool$PooledConnection@77a217da
+2022-04-06 14:39:51,263 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) handler = io.vertx.oracleclient.impl.CommandHandler@336526fe
+2022-04-06 14:39:51,264 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) o = oracle.jdbc.driver.T4CConnection@2b327fed
+2022-04-06 14:39:51,624 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) hashCode = 724729837
+2022-04-06 14:39:51,625 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]ping = 0
+2022-04-06 14:39:51,625 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]netConnectionId = 9wZOB1jiSVWuH3J7/F1fGA==
+2022-04-06 14:39:51,625 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]usable = true
+2022-04-06 14:39:51,625 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]closed = false
+2022-04-06 14:39:51,625 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Iteration 6. Connection hash: io.vertx.oracleclient.impl.OracleConnectionImpl@2d26484b
+2022-04-06 14:39:51,625 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Getting connection time 6 in 364 ms
+2022-04-06 14:39:51,992 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Exec query '6' in 366ms
+2022-04-06 14:39:51,992 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Total for Vertx test '6' is 731 ms
+2022-04-06 14:39:51,993 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) delegate = io.vertx.oracleclient.impl.OracleConnectionImpl@17eb490a
+2022-04-06 14:39:51,993 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) unwrap = io.vertx.sqlclient.impl.pool.SqlConnectionPool$PooledConnection@77a217da
+2022-04-06 14:39:51,993 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) handler = io.vertx.oracleclient.impl.CommandHandler@336526fe
+2022-04-06 14:39:51,994 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) o = oracle.jdbc.driver.T4CConnection@2b327fed
+2022-04-06 14:39:52,354 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) hashCode = 724729837
+2022-04-06 14:39:52,354 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]ping = 0
+2022-04-06 14:39:52,354 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]netConnectionId = 9wZOB1jiSVWuH3J7/F1fGA==
+2022-04-06 14:39:52,354 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]usable = true
+2022-04-06 14:39:52,354 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]closed = false
+2022-04-06 14:39:52,354 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Iteration 7. Connection hash: io.vertx.oracleclient.impl.OracleConnectionImpl@17eb490a
+2022-04-06 14:39:52,354 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Getting connection time 7 in 361 ms
+2022-04-06 14:39:52,725 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Exec query '7' in 370ms
+2022-04-06 14:39:52,725 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Total for Vertx test '7' is 732 ms
+2022-04-06 14:39:52,727 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) delegate = io.vertx.oracleclient.impl.OracleConnectionImpl@130a6df8
+2022-04-06 14:39:52,727 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) unwrap = io.vertx.sqlclient.impl.pool.SqlConnectionPool$PooledConnection@77a217da
+2022-04-06 14:39:52,727 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) handler = io.vertx.oracleclient.impl.CommandHandler@336526fe
+2022-04-06 14:39:52,727 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) o = oracle.jdbc.driver.T4CConnection@2b327fed
+2022-04-06 14:39:53,084 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) hashCode = 724729837
+2022-04-06 14:39:53,084 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]ping = 0
+2022-04-06 14:39:53,084 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]netConnectionId = 9wZOB1jiSVWuH3J7/F1fGA==
+2022-04-06 14:39:53,084 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]usable = true
+2022-04-06 14:39:53,084 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]closed = false
+2022-04-06 14:39:53,085 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Iteration 8. Connection hash: io.vertx.oracleclient.impl.OracleConnectionImpl@130a6df8
+2022-04-06 14:39:53,085 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Getting connection time 8 in 359 ms
+2022-04-06 14:39:53,446 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Exec query '8' in 361ms
+2022-04-06 14:39:53,447 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Total for Vertx test '8' is 721 ms
+2022-04-06 14:39:53,448 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) delegate = io.vertx.oracleclient.impl.OracleConnectionImpl@414860b6
+2022-04-06 14:39:53,449 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) unwrap = io.vertx.sqlclient.impl.pool.SqlConnectionPool$PooledConnection@77a217da
+2022-04-06 14:39:53,449 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) handler = io.vertx.oracleclient.impl.CommandHandler@336526fe
+2022-04-06 14:39:53,449 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) o = oracle.jdbc.driver.T4CConnection@2b327fed
+2022-04-06 14:39:53,811 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) hashCode = 724729837
+2022-04-06 14:39:53,812 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]ping = 0
+2022-04-06 14:39:53,812 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]netConnectionId = 9wZOB1jiSVWuH3J7/F1fGA==
+2022-04-06 14:39:53,813 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]usable = true
+2022-04-06 14:39:53,813 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]closed = false
+2022-04-06 14:39:53,813 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Iteration 9. Connection hash: io.vertx.oracleclient.impl.OracleConnectionImpl@414860b6
+2022-04-06 14:39:53,814 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Getting connection time 9 in 366 ms
+2022-04-06 14:39:54,192 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Exec query '9' in 378ms
+2022-04-06 14:39:54,193 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Total for Vertx test '9' is 745 ms
+2022-04-06 14:39:54,194 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Vertx Pool Test finished
+
+2022-04-06 14:40:22,022 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Test Oracle over Vertx
+2022-04-06 14:40:22,023 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) delegate = io.vertx.oracleclient.impl.OracleConnectionImpl@5e331cc4
+2022-04-06 14:40:22,023 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) unwrap = io.vertx.sqlclient.impl.pool.SqlConnectionPool$PooledConnection@77a217da
+2022-04-06 14:40:22,023 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) handler = io.vertx.oracleclient.impl.CommandHandler@336526fe
+2022-04-06 14:40:22,023 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) o = oracle.jdbc.driver.T4CConnection@2b327fed
+2022-04-06 14:40:22,024 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) hashCode = 724729837
+2022-04-06 14:40:22,025 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]ping = -1
+2022-04-06 14:40:22,025 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]netConnectionId = 9wZOB1jiSVWuH3J7/F1fGA==
+2022-04-06 14:40:22,025 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]usable = false
+2022-04-06 14:40:22,025 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]closed = true
+2022-04-06 14:40:22,025 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Iteration 0. Connection hash: io.vertx.oracleclient.impl.OracleConnectionImpl@5e331cc4
+2022-04-06 14:40:22,026 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Getting connection time 0 in 4 ms
+2022-04-06 14:40:22,028 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) 0:java.sql.SQLRecoverableException: Closed Connection
+2022-04-06 14:40:22,030 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) delegate = io.vertx.oracleclient.impl.OracleConnectionImpl@13ddad11
+2022-04-06 14:40:22,030 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) unwrap = io.vertx.sqlclient.impl.pool.SqlConnectionPool$PooledConnection@77a217da
+2022-04-06 14:40:22,030 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) handler = io.vertx.oracleclient.impl.CommandHandler@336526fe
+2022-04-06 14:40:22,030 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) o = oracle.jdbc.driver.T4CConnection@2b327fed
+2022-04-06 14:40:22,031 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) hashCode = 724729837
+2022-04-06 14:40:22,031 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]ping = -1
+2022-04-06 14:40:22,031 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]netConnectionId = 9wZOB1jiSVWuH3J7/F1fGA==
+2022-04-06 14:40:22,031 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]usable = false
+2022-04-06 14:40:22,031 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]closed = true
+2022-04-06 14:40:22,031 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Iteration 1. Connection hash: io.vertx.oracleclient.impl.OracleConnectionImpl@13ddad11
+2022-04-06 14:40:22,032 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Getting connection time 1 in 3 ms
+2022-04-06 14:40:22,033 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) 1:java.sql.SQLRecoverableException: Closed Connection
+2022-04-06 14:40:22,034 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) delegate = io.vertx.oracleclient.impl.OracleConnectionImpl@53f8673f
+2022-04-06 14:40:22,035 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) unwrap = io.vertx.sqlclient.impl.pool.SqlConnectionPool$PooledConnection@77a217da
+2022-04-06 14:40:22,035 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) handler = io.vertx.oracleclient.impl.CommandHandler@336526fe
+2022-04-06 14:40:22,036 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) o = oracle.jdbc.driver.T4CConnection@2b327fed
+2022-04-06 14:40:22,037 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) hashCode = 724729837
+2022-04-06 14:40:22,037 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]ping = -1
+2022-04-06 14:40:22,038 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]netConnectionId = 9wZOB1jiSVWuH3J7/F1fGA==
+2022-04-06 14:40:22,038 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]usable = false
+2022-04-06 14:40:22,038 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]closed = true
+2022-04-06 14:40:22,038 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Iteration 2. Connection hash: io.vertx.oracleclient.impl.OracleConnectionImpl@53f8673f
+2022-04-06 14:40:22,038 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Getting connection time 2 in 4 ms
+2022-04-06 14:40:22,040 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) 2:java.sql.SQLRecoverableException: Closed Connection
+2022-04-06 14:40:22,041 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) delegate = io.vertx.oracleclient.impl.OracleConnectionImpl@51b7f026
+2022-04-06 14:40:22,041 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) unwrap = io.vertx.sqlclient.impl.pool.SqlConnectionPool$PooledConnection@77a217da
+2022-04-06 14:40:22,042 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) handler = io.vertx.oracleclient.impl.CommandHandler@336526fe
+2022-04-06 14:40:22,042 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) o = oracle.jdbc.driver.T4CConnection@2b327fed
+2022-04-06 14:40:22,042 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) hashCode = 724729837
+2022-04-06 14:40:22,042 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]ping = -1
+2022-04-06 14:40:22,043 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]netConnectionId = 9wZOB1jiSVWuH3J7/F1fGA==
+2022-04-06 14:40:22,043 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]usable = false
+2022-04-06 14:40:22,043 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]closed = true
+2022-04-06 14:40:22,043 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Iteration 3. Connection hash: io.vertx.oracleclient.impl.OracleConnectionImpl@51b7f026
+2022-04-06 14:40:22,043 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Getting connection time 3 in 2 ms
+2022-04-06 14:40:22,045 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) 3:java.sql.SQLRecoverableException: Closed Connection
+2022-04-06 14:40:22,046 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) delegate = io.vertx.oracleclient.impl.OracleConnectionImpl@17a413e8
+2022-04-06 14:40:22,047 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) unwrap = io.vertx.sqlclient.impl.pool.SqlConnectionPool$PooledConnection@77a217da
+2022-04-06 14:40:22,047 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) handler = io.vertx.oracleclient.impl.CommandHandler@336526fe
+2022-04-06 14:40:22,047 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) o = oracle.jdbc.driver.T4CConnection@2b327fed
+2022-04-06 14:40:22,047 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) hashCode = 724729837
+2022-04-06 14:40:22,047 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]ping = -1
+2022-04-06 14:40:22,047 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]netConnectionId = 9wZOB1jiSVWuH3J7/F1fGA==
+2022-04-06 14:40:22,047 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]usable = false
+2022-04-06 14:40:22,047 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]closed = true
+2022-04-06 14:40:22,048 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Iteration 4. Connection hash: io.vertx.oracleclient.impl.OracleConnectionImpl@17a413e8
+2022-04-06 14:40:22,048 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Getting connection time 4 in 2 ms
+2022-04-06 14:40:22,049 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) 4:java.sql.SQLRecoverableException: Closed Connection
+2022-04-06 14:40:22,050 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) delegate = io.vertx.oracleclient.impl.OracleConnectionImpl@69ef9128
+2022-04-06 14:40:22,050 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) unwrap = io.vertx.sqlclient.impl.pool.SqlConnectionPool$PooledConnection@77a217da
+2022-04-06 14:40:22,050 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) handler = io.vertx.oracleclient.impl.CommandHandler@336526fe
+2022-04-06 14:40:22,050 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) o = oracle.jdbc.driver.T4CConnection@2b327fed
+2022-04-06 14:40:22,051 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) hashCode = 724729837
+2022-04-06 14:40:22,051 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]ping = -1
+2022-04-06 14:40:22,051 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]netConnectionId = 9wZOB1jiSVWuH3J7/F1fGA==
+2022-04-06 14:40:22,051 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]usable = false
+2022-04-06 14:40:22,051 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]closed = true
+2022-04-06 14:40:22,052 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Iteration 5. Connection hash: io.vertx.oracleclient.impl.OracleConnectionImpl@69ef9128
+2022-04-06 14:40:22,053 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Getting connection time 5 in 4 ms
+2022-04-06 14:40:22,055 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) 5:java.sql.SQLRecoverableException: Closed Connection
+2022-04-06 14:40:22,057 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) delegate = io.vertx.oracleclient.impl.OracleConnectionImpl@79bec2b5
+2022-04-06 14:40:22,057 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) unwrap = io.vertx.sqlclient.impl.pool.SqlConnectionPool$PooledConnection@77a217da
+2022-04-06 14:40:22,057 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) handler = io.vertx.oracleclient.impl.CommandHandler@336526fe
+2022-04-06 14:40:22,058 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) o = oracle.jdbc.driver.T4CConnection@2b327fed
+2022-04-06 14:40:22,058 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) hashCode = 724729837
+2022-04-06 14:40:22,058 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]ping = -1
+2022-04-06 14:40:22,059 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]netConnectionId = 9wZOB1jiSVWuH3J7/F1fGA==
+2022-04-06 14:40:22,059 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]usable = false
+2022-04-06 14:40:22,059 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]closed = true
+2022-04-06 14:40:22,059 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Iteration 6. Connection hash: io.vertx.oracleclient.impl.OracleConnectionImpl@79bec2b5
+2022-04-06 14:40:22,059 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Getting connection time 6 in 3 ms
+2022-04-06 14:40:22,061 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) 6:java.sql.SQLRecoverableException: Closed Connection
+2022-04-06 14:40:22,063 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) delegate = io.vertx.oracleclient.impl.OracleConnectionImpl@17662b64
+2022-04-06 14:40:22,063 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) unwrap = io.vertx.sqlclient.impl.pool.SqlConnectionPool$PooledConnection@77a217da
+2022-04-06 14:40:22,063 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) handler = io.vertx.oracleclient.impl.CommandHandler@336526fe
+2022-04-06 14:40:22,064 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) o = oracle.jdbc.driver.T4CConnection@2b327fed
+2022-04-06 14:40:22,064 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) hashCode = 724729837
+2022-04-06 14:40:22,064 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]ping = -1
+2022-04-06 14:40:22,064 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]netConnectionId = 9wZOB1jiSVWuH3J7/F1fGA==
+2022-04-06 14:40:22,064 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]usable = false
+2022-04-06 14:40:22,065 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]closed = true
+2022-04-06 14:40:22,065 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Iteration 7. Connection hash: io.vertx.oracleclient.impl.OracleConnectionImpl@17662b64
+2022-04-06 14:40:22,066 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Getting connection time 7 in 4 ms
+2022-04-06 14:40:22,068 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) 7:java.sql.SQLRecoverableException: Closed Connection
+2022-04-06 14:40:22,070 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) delegate = io.vertx.oracleclient.impl.OracleConnectionImpl@20ea4133
+2022-04-06 14:40:22,070 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) unwrap = io.vertx.sqlclient.impl.pool.SqlConnectionPool$PooledConnection@77a217da
+2022-04-06 14:40:22,070 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) handler = io.vertx.oracleclient.impl.CommandHandler@336526fe
+2022-04-06 14:40:22,070 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) o = oracle.jdbc.driver.T4CConnection@2b327fed
+2022-04-06 14:40:22,071 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) hashCode = 724729837
+2022-04-06 14:40:22,071 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]ping = -1
+2022-04-06 14:40:22,071 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]netConnectionId = 9wZOB1jiSVWuH3J7/F1fGA==
+2022-04-06 14:40:22,071 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]usable = false
+2022-04-06 14:40:22,071 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]closed = true
+2022-04-06 14:40:22,071 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Iteration 8. Connection hash: io.vertx.oracleclient.impl.OracleConnectionImpl@20ea4133
+2022-04-06 14:40:22,071 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Getting connection time 8 in 2 ms
+2022-04-06 14:40:22,072 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) 8:java.sql.SQLRecoverableException: Closed Connection
+2022-04-06 14:40:22,073 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) delegate = io.vertx.oracleclient.impl.OracleConnectionImpl@3599e2d7
+2022-04-06 14:40:22,074 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) unwrap = io.vertx.sqlclient.impl.pool.SqlConnectionPool$PooledConnection@77a217da
+2022-04-06 14:40:22,074 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) handler = io.vertx.oracleclient.impl.CommandHandler@336526fe
+2022-04-06 14:40:22,074 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) o = oracle.jdbc.driver.T4CConnection@2b327fed
+2022-04-06 14:40:22,074 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) hashCode = 724729837
+2022-04-06 14:40:22,074 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]ping = -1
+2022-04-06 14:40:22,074 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]netConnectionId = 9wZOB1jiSVWuH3J7/F1fGA==
+2022-04-06 14:40:22,074 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]usable = false
+2022-04-06 14:40:22,074 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]closed = true
+2022-04-06 14:40:22,075 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Iteration 9. Connection hash: io.vertx.oracleclient.impl.OracleConnectionImpl@3599e2d7
+2022-04-06 14:40:22,075 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Getting connection time 9 in 2 ms
+2022-04-06 14:40:22,076 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) 9:java.sql.SQLRecoverableException: Closed Connection
+2022-04-06 14:40:22,077 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Vertx Pool Test finished
+
+2022-04-06 14:41:48,875 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Test Oracle over Vertx
+2022-04-06 14:41:48,876 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) delegate = io.vertx.oracleclient.impl.OracleConnectionImpl@3a3d35bb
+2022-04-06 14:41:48,877 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) unwrap = io.vertx.sqlclient.impl.pool.SqlConnectionPool$PooledConnection@77a217da
+2022-04-06 14:41:48,877 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) handler = io.vertx.oracleclient.impl.CommandHandler@336526fe
+2022-04-06 14:41:48,877 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) o = oracle.jdbc.driver.T4CConnection@2b327fed
+2022-04-06 14:41:48,877 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) hashCode = 724729837
+2022-04-06 14:41:48,878 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]ping = -1
+2022-04-06 14:41:48,878 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]netConnectionId = 9wZOB1jiSVWuH3J7/F1fGA==
+2022-04-06 14:41:48,878 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]usable = false
+2022-04-06 14:41:48,878 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]closed = true
+2022-04-06 14:41:48,878 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Iteration 0. Connection hash: io.vertx.oracleclient.impl.OracleConnectionImpl@3a3d35bb
+2022-04-06 14:41:48,878 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Getting connection time 0 in 3 ms
+2022-04-06 14:41:48,891 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) 0:java.sql.SQLRecoverableException: Closed Connection
+2022-04-06 14:41:48,895 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) delegate = io.vertx.oracleclient.impl.OracleConnectionImpl@1c261493
+2022-04-06 14:41:48,895 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) unwrap = io.vertx.sqlclient.impl.pool.SqlConnectionPool$PooledConnection@77a217da
+2022-04-06 14:41:48,895 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) handler = io.vertx.oracleclient.impl.CommandHandler@336526fe
+2022-04-06 14:41:48,895 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) o = oracle.jdbc.driver.T4CConnection@2b327fed
+2022-04-06 14:41:48,896 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) hashCode = 724729837
+2022-04-06 14:41:48,896 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]ping = -1
+2022-04-06 14:41:48,896 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]netConnectionId = 9wZOB1jiSVWuH3J7/F1fGA==
+2022-04-06 14:41:48,896 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]usable = false
+2022-04-06 14:41:48,896 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]closed = true
+2022-04-06 14:41:48,897 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Iteration 1. Connection hash: io.vertx.oracleclient.impl.OracleConnectionImpl@1c261493
+2022-04-06 14:41:48,897 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Getting connection time 1 in 3 ms
+2022-04-06 14:41:48,898 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) 1:java.sql.SQLRecoverableException: Closed Connection
+2022-04-06 14:41:48,900 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) delegate = io.vertx.oracleclient.impl.OracleConnectionImpl@6e373dfd
+2022-04-06 14:41:48,900 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) unwrap = io.vertx.sqlclient.impl.pool.SqlConnectionPool$PooledConnection@77a217da
+2022-04-06 14:41:48,900 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) handler = io.vertx.oracleclient.impl.CommandHandler@336526fe
+2022-04-06 14:41:48,900 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) o = oracle.jdbc.driver.T4CConnection@2b327fed
+2022-04-06 14:41:48,900 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) hashCode = 724729837
+2022-04-06 14:41:48,901 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]ping = -1
+2022-04-06 14:41:48,901 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]netConnectionId = 9wZOB1jiSVWuH3J7/F1fGA==
+2022-04-06 14:41:48,901 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]usable = false
+2022-04-06 14:41:48,901 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]closed = true
+2022-04-06 14:41:48,901 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Iteration 2. Connection hash: io.vertx.oracleclient.impl.OracleConnectionImpl@6e373dfd
+2022-04-06 14:41:48,901 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Getting connection time 2 in 2 ms
+2022-04-06 14:41:48,903 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) 2:java.sql.SQLRecoverableException: Closed Connection
+2022-04-06 14:41:48,904 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) delegate = io.vertx.oracleclient.impl.OracleConnectionImpl@14c2e5b6
+2022-04-06 14:41:48,904 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) unwrap = io.vertx.sqlclient.impl.pool.SqlConnectionPool$PooledConnection@77a217da
+2022-04-06 14:41:48,904 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) handler = io.vertx.oracleclient.impl.CommandHandler@336526fe
+2022-04-06 14:41:48,905 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) o = oracle.jdbc.driver.T4CConnection@2b327fed
+2022-04-06 14:41:48,905 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) hashCode = 724729837
+2022-04-06 14:41:48,905 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]ping = -1
+2022-04-06 14:41:48,905 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]netConnectionId = 9wZOB1jiSVWuH3J7/F1fGA==
+2022-04-06 14:41:48,905 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]usable = false
+2022-04-06 14:41:48,905 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]closed = true
+2022-04-06 14:41:48,905 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Iteration 3. Connection hash: io.vertx.oracleclient.impl.OracleConnectionImpl@14c2e5b6
+2022-04-06 14:41:48,906 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Getting connection time 3 in 2 ms
+2022-04-06 14:41:48,907 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) 3:java.sql.SQLRecoverableException: Closed Connection
+2022-04-06 14:41:48,910 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) delegate = io.vertx.oracleclient.impl.OracleConnectionImpl@47019a78
+2022-04-06 14:41:48,911 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) unwrap = io.vertx.sqlclient.impl.pool.SqlConnectionPool$PooledConnection@77a217da
+2022-04-06 14:41:48,911 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) handler = io.vertx.oracleclient.impl.CommandHandler@336526fe
+2022-04-06 14:41:48,912 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) o = oracle.jdbc.driver.T4CConnection@2b327fed
+2022-04-06 14:41:48,912 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) hashCode = 724729837
+2022-04-06 14:41:48,912 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]ping = -1
+2022-04-06 14:41:48,912 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]netConnectionId = 9wZOB1jiSVWuH3J7/F1fGA==
+2022-04-06 14:41:48,912 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]usable = false
+2022-04-06 14:41:48,912 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]closed = true
+2022-04-06 14:41:48,912 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Iteration 4. Connection hash: io.vertx.oracleclient.impl.OracleConnectionImpl@47019a78
+2022-04-06 14:41:48,913 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Getting connection time 4 in 4 ms
+2022-04-06 14:41:48,915 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) 4:java.sql.SQLRecoverableException: Closed Connection
+2022-04-06 14:41:48,916 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) delegate = io.vertx.oracleclient.impl.OracleConnectionImpl@6b2f9c87
+2022-04-06 14:41:48,916 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) unwrap = io.vertx.sqlclient.impl.pool.SqlConnectionPool$PooledConnection@77a217da
+2022-04-06 14:41:48,917 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) handler = io.vertx.oracleclient.impl.CommandHandler@336526fe
+2022-04-06 14:41:48,917 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) o = oracle.jdbc.driver.T4CConnection@2b327fed
+2022-04-06 14:41:48,917 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) hashCode = 724729837
+2022-04-06 14:41:48,917 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]ping = -1
+2022-04-06 14:41:48,918 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]netConnectionId = 9wZOB1jiSVWuH3J7/F1fGA==
+2022-04-06 14:41:48,918 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]usable = false
+2022-04-06 14:41:48,918 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]closed = true
+2022-04-06 14:41:48,918 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Iteration 5. Connection hash: io.vertx.oracleclient.impl.OracleConnectionImpl@6b2f9c87
+2022-04-06 14:41:48,919 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Getting connection time 5 in 2 ms
+2022-04-06 14:41:48,924 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) 5:java.sql.SQLRecoverableException: Closed Connection
+2022-04-06 14:41:48,926 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) delegate = io.vertx.oracleclient.impl.OracleConnectionImpl@3c208cca
+2022-04-06 14:41:48,926 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) unwrap = io.vertx.sqlclient.impl.pool.SqlConnectionPool$PooledConnection@77a217da
+2022-04-06 14:41:48,927 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) handler = io.vertx.oracleclient.impl.CommandHandler@336526fe
+2022-04-06 14:41:48,927 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) o = oracle.jdbc.driver.T4CConnection@2b327fed
+2022-04-06 14:41:48,927 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) hashCode = 724729837
+2022-04-06 14:41:48,927 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]ping = -1
+2022-04-06 14:41:48,927 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]netConnectionId = 9wZOB1jiSVWuH3J7/F1fGA==
+2022-04-06 14:41:48,927 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]usable = false
+2022-04-06 14:41:48,927 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]closed = true
+2022-04-06 14:41:48,928 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Iteration 6. Connection hash: io.vertx.oracleclient.impl.OracleConnectionImpl@3c208cca
+2022-04-06 14:41:48,928 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Getting connection time 6 in 2 ms
+2022-04-06 14:41:48,929 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) 6:java.sql.SQLRecoverableException: Closed Connection
+2022-04-06 14:41:48,930 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) delegate = io.vertx.oracleclient.impl.OracleConnectionImpl@3fcc31ad
+2022-04-06 14:41:48,930 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) unwrap = io.vertx.sqlclient.impl.pool.SqlConnectionPool$PooledConnection@77a217da
+2022-04-06 14:41:48,930 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) handler = io.vertx.oracleclient.impl.CommandHandler@336526fe
+2022-04-06 14:41:48,931 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) o = oracle.jdbc.driver.T4CConnection@2b327fed
+2022-04-06 14:41:48,931 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) hashCode = 724729837
+2022-04-06 14:41:48,931 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]ping = -1
+2022-04-06 14:41:48,931 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]netConnectionId = 9wZOB1jiSVWuH3J7/F1fGA==
+2022-04-06 14:41:48,931 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]usable = false
+2022-04-06 14:41:48,931 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]closed = true
+2022-04-06 14:41:48,931 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Iteration 7. Connection hash: io.vertx.oracleclient.impl.OracleConnectionImpl@3fcc31ad
+2022-04-06 14:41:48,932 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Getting connection time 7 in 2 ms
+2022-04-06 14:41:48,933 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) 7:java.sql.SQLRecoverableException: Closed Connection
+2022-04-06 14:41:48,934 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) delegate = io.vertx.oracleclient.impl.OracleConnectionImpl@7455be76
+2022-04-06 14:41:48,934 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) unwrap = io.vertx.sqlclient.impl.pool.SqlConnectionPool$PooledConnection@77a217da
+2022-04-06 14:41:48,934 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) handler = io.vertx.oracleclient.impl.CommandHandler@336526fe
+2022-04-06 14:41:48,935 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) o = oracle.jdbc.driver.T4CConnection@2b327fed
+2022-04-06 14:41:48,935 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) hashCode = 724729837
+2022-04-06 14:41:48,935 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]ping = -1
+2022-04-06 14:41:48,935 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]netConnectionId = 9wZOB1jiSVWuH3J7/F1fGA==
+2022-04-06 14:41:48,935 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]usable = false
+2022-04-06 14:41:48,935 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]closed = true
+2022-04-06 14:41:48,936 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Iteration 8. Connection hash: io.vertx.oracleclient.impl.OracleConnectionImpl@7455be76
+2022-04-06 14:41:48,936 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Getting connection time 8 in 2 ms
+2022-04-06 14:41:48,937 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) 8:java.sql.SQLRecoverableException: Closed Connection
+2022-04-06 14:41:48,938 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) delegate = io.vertx.oracleclient.impl.OracleConnectionImpl@6309dfdf
+2022-04-06 14:41:48,938 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) unwrap = io.vertx.sqlclient.impl.pool.SqlConnectionPool$PooledConnection@77a217da
+2022-04-06 14:41:48,939 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) handler = io.vertx.oracleclient.impl.CommandHandler@336526fe
+2022-04-06 14:41:48,939 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) o = oracle.jdbc.driver.T4CConnection@2b327fed
+2022-04-06 14:41:48,939 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) hashCode = 724729837
+2022-04-06 14:41:48,939 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]ping = -1
+2022-04-06 14:41:48,939 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]netConnectionId = 9wZOB1jiSVWuH3J7/F1fGA==
+2022-04-06 14:41:48,940 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]usable = false
+2022-04-06 14:41:48,940 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) [724729837]closed = true
+2022-04-06 14:41:48,940 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Iteration 9. Connection hash: io.vertx.oracleclient.impl.OracleConnectionImpl@6309dfdf
+2022-04-06 14:41:48,940 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Getting connection time 9 in 2 ms
+2022-04-06 14:41:48,946 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) 9:java.sql.SQLRecoverableException: Closed Connection
+2022-04-06 14:41:48,948 localhost bug-with-pool-connections-dev.jar[33028] INFO  [oracle] (Quarkus Main Thread) Vertx Pool Test finished
+

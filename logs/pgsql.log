@@ -1,0 +1,99 @@
+2022-04-06 14:37:30,072 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Test PgPool over Vertx
+2022-04-06 14:37:30,448 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Iteration 0. Connection hash: io.vertx.pgclient.impl.PgConnectionImpl@10ba8065
+2022-04-06 14:37:30,449 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Getting connection time 0 in 376 ms
+2022-04-06 14:37:30,569 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Exec query '0' in 120ms
+2022-04-06 14:37:30,570 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Total for PgTest test '0' is 497 ms
+2022-04-06 14:37:30,576 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Iteration 1. Connection hash: io.vertx.pgclient.impl.PgConnectionImpl@7af1e2b2
+2022-04-06 14:37:30,576 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Getting connection time 1 in 1 ms
+2022-04-06 14:37:30,581 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Exec query '1' in 4ms
+2022-04-06 14:37:30,582 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Total for PgTest test '1' is 7 ms
+2022-04-06 14:37:30,583 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Iteration 2. Connection hash: io.vertx.pgclient.impl.PgConnectionImpl@d207071
+2022-04-06 14:37:30,584 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Getting connection time 2 in 1 ms
+2022-04-06 14:37:30,588 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Exec query '2' in 3ms
+2022-04-06 14:37:30,588 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Total for PgTest test '2' is 5 ms
+2022-04-06 14:37:30,590 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Iteration 3. Connection hash: io.vertx.pgclient.impl.PgConnectionImpl@16fba1d7
+2022-04-06 14:37:30,591 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Getting connection time 3 in 2 ms
+2022-04-06 14:37:30,597 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Exec query '3' in 6ms
+2022-04-06 14:37:30,597 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Total for PgTest test '3' is 8 ms
+2022-04-06 14:37:30,599 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Iteration 4. Connection hash: io.vertx.pgclient.impl.PgConnectionImpl@21c73bf
+2022-04-06 14:37:30,600 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Getting connection time 4 in 0 ms
+2022-04-06 14:37:30,604 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Exec query '4' in 4ms
+2022-04-06 14:37:30,605 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Total for PgTest test '4' is 5 ms
+2022-04-06 14:37:30,606 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Iteration 5. Connection hash: io.vertx.pgclient.impl.PgConnectionImpl@778df53c
+2022-04-06 14:37:30,607 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Getting connection time 5 in 2 ms
+2022-04-06 14:37:30,612 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Exec query '5' in 5ms
+2022-04-06 14:37:30,612 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Total for PgTest test '5' is 7 ms
+2022-04-06 14:37:30,615 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Iteration 6. Connection hash: io.vertx.pgclient.impl.PgConnectionImpl@7920b044
+2022-04-06 14:37:30,615 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Getting connection time 6 in 0 ms
+2022-04-06 14:37:30,621 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Exec query '6' in 4ms
+2022-04-06 14:37:30,622 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Total for PgTest test '6' is 7 ms
+2022-04-06 14:37:30,624 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Iteration 7. Connection hash: io.vertx.pgclient.impl.PgConnectionImpl@321e43ae
+2022-04-06 14:37:30,624 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Getting connection time 7 in 1 ms
+2022-04-06 14:37:30,632 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Exec query '7' in 7ms
+2022-04-06 14:37:30,633 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Total for PgTest test '7' is 10 ms
+2022-04-06 14:37:30,635 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Iteration 8. Connection hash: io.vertx.pgclient.impl.PgConnectionImpl@53fe4fd9
+2022-04-06 14:37:30,635 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Getting connection time 8 in 1 ms
+2022-04-06 14:37:30,640 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Exec query '8' in 3ms
+2022-04-06 14:37:30,640 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Total for PgTest test '8' is 6 ms
+2022-04-06 14:37:30,642 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Iteration 9. Connection hash: io.vertx.pgclient.impl.PgConnectionImpl@4b42748f
+2022-04-06 14:37:30,642 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Getting connection time 9 in 1 ms
+2022-04-06 14:37:30,648 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Exec query '9' in 5ms
+2022-04-06 14:37:30,648 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Total for PgTest test '9' is 7 ms
+2022-04-06 14:37:30,649 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Vertx Pool Test finished
+
+2022-04-06 14:37:57,553 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Test PgPool over Vertx
+2022-04-06 14:37:57,561 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) 0:io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: localhost/127.0.0.1:5432
+2022-04-06 14:37:57,564 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) 1:io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: localhost/127.0.0.1:5432
+2022-04-06 14:37:57,567 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) 2:io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: localhost/127.0.0.1:5432
+2022-04-06 14:37:57,570 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) 3:io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: localhost/127.0.0.1:5432
+2022-04-06 14:37:57,573 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) 4:io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: localhost/127.0.0.1:5432
+2022-04-06 14:37:57,576 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) 5:io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: localhost/127.0.0.1:5432
+2022-04-06 14:37:57,580 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) 6:io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: localhost/127.0.0.1:5432
+2022-04-06 14:37:57,584 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) 7:io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: localhost/127.0.0.1:5432
+2022-04-06 14:37:57,587 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) 8:io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: localhost/127.0.0.1:5432
+2022-04-06 14:37:57,590 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) 9:io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: localhost/127.0.0.1:5432
+2022-04-06 14:37:57,591 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Vertx Pool Test finished
+
+2022-04-06 14:38:24,339 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Test PgPool over Vertx
+2022-04-06 14:38:24,416 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Iteration 0. Connection hash: io.vertx.pgclient.impl.PgConnectionImpl@77df694d
+2022-04-06 14:38:24,417 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Getting connection time 0 in 78 ms
+2022-04-06 14:38:24,422 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Exec query '0' in 5ms
+2022-04-06 14:38:24,423 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Total for PgTest test '0' is 84 ms
+2022-04-06 14:38:24,424 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Iteration 1. Connection hash: io.vertx.pgclient.impl.PgConnectionImpl@56fe70e8
+2022-04-06 14:38:24,424 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Getting connection time 1 in 1 ms
+2022-04-06 14:38:24,429 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Exec query '1' in 5ms
+2022-04-06 14:38:24,430 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Total for PgTest test '1' is 7 ms
+2022-04-06 14:38:24,431 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Iteration 2. Connection hash: io.vertx.pgclient.impl.PgConnectionImpl@ec090b4
+2022-04-06 14:38:24,431 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Getting connection time 2 in 1 ms
+2022-04-06 14:38:24,435 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Exec query '2' in 4ms
+2022-04-06 14:38:24,436 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Total for PgTest test '2' is 6 ms
+2022-04-06 14:38:24,437 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Iteration 3. Connection hash: io.vertx.pgclient.impl.PgConnectionImpl@5bf0a398
+2022-04-06 14:38:24,437 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Getting connection time 3 in 0 ms
+2022-04-06 14:38:24,441 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Exec query '3' in 4ms
+2022-04-06 14:38:24,442 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Total for PgTest test '3' is 4 ms
+2022-04-06 14:38:24,442 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Iteration 4. Connection hash: io.vertx.pgclient.impl.PgConnectionImpl@57693caa
+2022-04-06 14:38:24,443 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Getting connection time 4 in 1 ms
+2022-04-06 14:38:24,446 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Exec query '4' in 3ms
+2022-04-06 14:38:24,447 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Total for PgTest test '4' is 5 ms
+2022-04-06 14:38:24,448 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Iteration 5. Connection hash: io.vertx.pgclient.impl.PgConnectionImpl@72b57f9f
+2022-04-06 14:38:24,448 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Getting connection time 5 in 1 ms
+2022-04-06 14:38:24,452 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Exec query '5' in 3ms
+2022-04-06 14:38:24,452 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Total for PgTest test '5' is 5 ms
+2022-04-06 14:38:24,453 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Iteration 6. Connection hash: io.vertx.pgclient.impl.PgConnectionImpl@787a144d
+2022-04-06 14:38:24,454 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Getting connection time 6 in 1 ms
+2022-04-06 14:38:24,458 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Exec query '6' in 4ms
+2022-04-06 14:38:24,458 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Total for PgTest test '6' is 5 ms
+2022-04-06 14:38:24,459 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Iteration 7. Connection hash: io.vertx.pgclient.impl.PgConnectionImpl@264894b9
+2022-04-06 14:38:24,460 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Getting connection time 7 in 0 ms
+2022-04-06 14:38:24,464 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Exec query '7' in 4ms
+2022-04-06 14:38:24,464 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Total for PgTest test '7' is 5 ms
+2022-04-06 14:38:24,465 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Iteration 8. Connection hash: io.vertx.pgclient.impl.PgConnectionImpl@38da60b6
+2022-04-06 14:38:24,465 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Getting connection time 8 in 0 ms
+2022-04-06 14:38:24,470 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Exec query '8' in 3ms
+2022-04-06 14:38:24,470 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Total for PgTest test '8' is 5 ms
+2022-04-06 14:38:24,471 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Iteration 9. Connection hash: io.vertx.pgclient.impl.PgConnectionImpl@61cab9b5
+2022-04-06 14:38:24,472 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Getting connection time 9 in 1 ms
+2022-04-06 14:38:24,475 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Exec query '9' in 3ms
+2022-04-06 14:38:24,475 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Total for PgTest test '9' is 4 ms
+2022-04-06 14:38:24,476 localhost bug-with-pool-connections-dev.jar[33028] INFO  [pgsql] (Quarkus Main Thread) Vertx Pool Test finished
+

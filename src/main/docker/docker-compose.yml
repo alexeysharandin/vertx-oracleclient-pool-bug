@@ -1,0 +1,35 @@
+version: '3.7'
+
+volumes:
+  pg_data:
+    driver: local
+
+networks:
+  local:
+
+services:
+  postgres:
+    restart: always
+    image: postgres:14.1-alpine
+    environment:
+      - PGUSER=postgres
+      - PGPASSWORD=postgres
+      - PGDATABASE=postgres
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+      - POSTGRES_DB=postgres
+    ports:
+      - "5432:5432"
+    expose:
+      - "5432"
+    volumes:
+      - /var/lib/docker/volumes/pg_data/_data:/var/lib/postgresql/data
+    deploy:
+      resources:
+        limits:
+          cpus: '5'
+          memory: '300M'
+    healthcheck:
+      test: "pg_isready -q -U postgres"
+    networks:
+      - local
